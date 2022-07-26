@@ -1,0 +1,7 @@
+"","TOTAL_ADULT_POP","AttributableCases_baseline","AttributableCases_counterfactual","AttributableCases_difference"
+"1","<$27,000",4160,2325,1835
+"2","$27,000 to <$52,000",31634,20496,11138
+"3","$52,000 to <$85,000",47951,32756,15195
+"4","$85,000 to <$141,000",28168,19358,8810
+"5",">=$141,000",5943,4079,1864
+"6","NA",608,391,217

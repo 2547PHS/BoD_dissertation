@@ -1,0 +1,7 @@
+INCOME_GROUP,IncidentCases,AttributableCases,LowerAttributableCases,UpperAttributableCases,ImpactFraction,LowerImpactFraction,UpperImpactFraction
+"<$27,000",26189,4160,2058,5665,15.9,7.9,21.6
+"$27,000 to <$52,000",237156,31634,15510,43363,13.3,6.5,18.3
+"$52,000 to <$85,000",373201,47951,23441,65877,12.8,6.3,17.7
+"$85,000 to <$141,000",213459,28168,13768,38700,13.2,6.4,18.1
+">=$141,000",44650,5943,2907,8162,13.3,6.5,18.3
+"NA",4587,608,298,833,13.3,6.5,18.2
