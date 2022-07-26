@@ -1,0 +1,717 @@
+﻿GEOID,YEAR,NAME,TRACT_NAME,COUNTY,STATE,NO2_mgm3
+49049000901,2020,"Census Tract 9.01, Utah County, Utah",Census Tract 9.01,Utah County,Utah,24.27469839
+49049002500,2020,"Census Tract 25, Utah County, Utah",Census Tract 25,Utah County,Utah,21.02632971
+49049003401,2020,"Census Tract 34.01, Utah County, Utah",Census Tract 34.01,Utah County,Utah,13.9617053
+49049010210,2020,"Census Tract 102.10, Utah County, Utah",Census Tract 102.10,Utah County,Utah,12.21717531
+49049000505,2020,"Census Tract 5.05, Utah County, Utah",Census Tract 5.05,Utah County,Utah,12.29605755
+49049000507,2020,"Census Tract 5.07, Utah County, Utah",Census Tract 5.07,Utah County,Utah,10.55600217
+49049010209,2020,"Census Tract 102.09, Utah County, Utah",Census Tract 102.09,Utah County,Utah,13.2984564
+49051960100,2020,"Census Tract 9601, Wasatch County, Utah",Census Tract 9601,Wasatch County,Utah,13.7459552
+49013940600,2020,"Census Tract 9406, Duchesne County, Utah",Census Tract 9406,Duchesne County,Utah,4.6010911
+49049010211,2020,"Census Tract 102.11, Utah County, Utah",Census Tract 102.11,Utah County,Utah,6.709485414
+49049010409,2020,"Census Tract 104.09, Utah County, Utah",Census Tract 104.09,Utah County,Utah,7.130811858
+49049010406,2020,"Census Tract 104.06, Utah County, Utah",Census Tract 104.06,Utah County,Utah,12.0160552
+49049000703,2020,"Census Tract 7.03, Utah County, Utah",Census Tract 7.03,Utah County,Utah,28.32048161
+49049001501,2020,"Census Tract 15.01, Utah County, Utah",Census Tract 15.01,Utah County,Utah,14.31173586
+49049002206,2020,"Census Tract 22.06, Utah County, Utah",Census Tract 22.06,Utah County,Utah,17.18954873
+49049001401,2020,"Census Tract 14.01, Utah County, Utah",Census Tract 14.01,Utah County,Utah,18.91498425
+49049001503,2020,"Census Tract 15.03, Utah County, Utah",Census Tract 15.03,Utah County,Utah,13.11690184
+49007000600,2020,"Census Tract 6, Carbon County, Utah",Census Tract 6,Carbon County,Utah,4.102450928
+49055979100,2020,"Census Tract 9791, Wayne County, Utah",Census Tract 9791,Wayne County,Utah,4.29625915
+49045980000,2020,"Census Tract 9800, Tooele County, Utah",Census Tract 9800,Tooele County,Utah,6.343286945
+49045130701,2020,"Census Tract 1307.01, Tooele County, Utah",Census Tract 1307.01,Tooele County,Utah,7.82936342
+49045131001,2020,"Census Tract 1310.01, Tooele County, Utah",Census Tract 1310.01,Tooele County,Utah,14.88634189
+49009960100,2020,"Census Tract 9601, Daggett County, Utah",Census Tract 9601,Daggett County,Utah,5.332996025
+49035980000,2020,"Census Tract 9800, Salt Lake County, Utah",Census Tract 9800,Salt Lake County,Utah,14.33633914
+49035113906,2020,"Census Tract 1139.06, Salt Lake County, Utah",Census Tract 1139.06,Salt Lake County,Utah,10.31917306
+49035100308,2020,"Census Tract 1003.08, Salt Lake County, Utah",Census Tract 1003.08,Salt Lake County,Utah,19.23477116
+49035111702,2020,"Census Tract 1117.02, Salt Lake County, Utah",Census Tract 1117.02,Salt Lake County,Utah,18.6579914
+49011126105,2020,"Census Tract 1261.05, Davis County, Utah",Census Tract 1261.05,Davis County,Utah,13.94532787
+49011126203,2020,"Census Tract 1262.03, Davis County, Utah",Census Tract 1262.03,Davis County,Utah,12.65477743
+49011126304,2020,"Census Tract 1263.04, Davis County, Utah",Census Tract 1263.04,Davis County,Utah,16.14999464
+49011126306,2020,"Census Tract 1263.06, Davis County, Utah",Census Tract 1263.06,Davis County,Utah,19.53146182
+49011125501,2020,"Census Tract 1255.01, Davis County, Utah",Census Tract 1255.01,Davis County,Utah,14.33907488
+49011125502,2020,"Census Tract 1255.02, Davis County, Utah",Census Tract 1255.02,Davis County,Utah,15.26720444
+49011125503,2020,"Census Tract 1255.03, Davis County, Utah",Census Tract 1255.03,Davis County,Utah,14.17330363
+49043964402,2020,"Census Tract 9644.02, Summit County, Utah",Census Tract 9644.02,Summit County,Utah,11.83826747
+49043964401,2020,"Census Tract 9644.01, Summit County, Utah",Census Tract 9644.01,Summit County,Utah,9.612230868
+49043964305,2020,"Census Tract 9643.05, Summit County, Utah",Census Tract 9643.05,Summit County,Utah,8.019164381
+49011125600,2020,"Census Tract 1256, Davis County, Utah",Census Tract 1256,Davis County,Utah,17.89458232
+49011125801,2020,"Census Tract 1258.01, Davis County, Utah",Census Tract 1258.01,Davis County,Utah,17.85400554
+49011125804,2020,"Census Tract 1258.04, Davis County, Utah",Census Tract 1258.04,Davis County,Utah,11.73146761
+49011125905,2020,"Census Tract 1259.05, Davis County, Utah",Census Tract 1259.05,Davis County,Utah,13.31002623
+49011125906,2020,"Census Tract 1259.06, Davis County, Utah",Census Tract 1259.06,Davis County,Utah,13.90392873
+49057210704,2020,"Census Tract 2107.04, Weber County, Utah",Census Tract 2107.04,Weber County,Utah,15.4980313
+49057210800,2020,"Census Tract 2108, Weber County, Utah",Census Tract 2108,Weber County,Utah,16.77770528
+49057210900,2020,"Census Tract 2109, Weber County, Utah",Census Tract 2109,Weber County,Utah,16.29322382
+49045131200,2020,"Census Tract 1312, Tooele County, Utah",Census Tract 1312,Tooele County,Utah,14.57688925
+49045130600,2020,"Census Tract 1306, Tooele County, Utah",Census Tract 1306,Tooele County,Utah,2.653221663
+49045130900,2020,"Census Tract 1309, Tooele County, Utah",Census Tract 1309,Tooele County,Utah,13.74998392
+49045130800,2020,"Census Tract 1308, Tooele County, Utah",Census Tract 1308,Tooele County,Utah,11.03547623
+49049010600,2020,"Census Tract 106, Utah County, Utah",Census Tract 106,Utah County,Utah,5.859365654
+49049000400,2020,"Census Tract 4, Utah County, Utah",Census Tract 4,Utah County,Utah,18.60089616
+49049010410,2020,"Census Tract 104.10, Utah County, Utah",Census Tract 104.10,Utah County,Utah,11.59914299
+49049010411,2020,"Census Tract 104.11, Utah County, Utah",Census Tract 104.11,Utah County,Utah,2.919271924
+49049010503,2020,"Census Tract 105.03, Utah County, Utah",Census Tract 105.03,Utah County,Utah,11.79089072
+49049010504,2020,"Census Tract 105.04, Utah County, Utah",Census Tract 105.04,Utah County,Utah,11.82974356
+49049010900,2020,"Census Tract 109, Utah County, Utah",Census Tract 109,Utah County,Utah,5.67258517
+49049980100,2020,"Census Tract 9801, Utah County, Utah",Census Tract 9801,Utah County,Utah,6.386581374
+49049002702,2020,"Census Tract 27.02, Utah County, Utah",Census Tract 27.02,Utah County,Utah,13.33954645
+49049003104,2020,"Census Tract 31.04, Utah County, Utah",Census Tract 31.04,Utah County,Utah,6.251406457
+49049003105,2020,"Census Tract 31.05, Utah County, Utah",Census Tract 31.05,Utah County,Utah,12.60307744
+49019000200,2020,"Census Tract 2, Grand County, Utah",Census Tract 2,Grand County,Utah,11.04300873
+49033950100,2020,"Census Tract 9501, Rich County, Utah",Census Tract 9501,Rich County,Utah,5.105785452
+49035113536,2020,"Census Tract 1135.36, Salt Lake County, Utah",Census Tract 1135.36,Salt Lake County,Utah,18.6062324
+49035113701,2020,"Census Tract 1137.01, Salt Lake County, Utah",Census Tract 1137.01,Salt Lake County,Utah,15.72807854
+49035113538,2020,"Census Tract 1135.38, Salt Lake County, Utah",Census Tract 1135.38,Salt Lake County,Utah,14.8849852
+49035110401,2020,"Census Tract 1104.01, Salt Lake County, Utah",Census Tract 1104.01,Salt Lake County,Utah,14.85579308
+49035114000,2020,"Census Tract 1140, Salt Lake County, Utah",Census Tract 1140,Salt Lake County,Utah,24.04346439
+49057200203,2020,"Census Tract 2002.03, Weber County, Utah",Census Tract 2002.03,Weber County,Utah,15.42042364
+49057200204,2020,"Census Tract 2002.04, Weber County, Utah",Census Tract 2002.04,Weber County,Utah,13.41985239
+49035114100,2020,"Census Tract 1141, Salt Lake County, Utah",Census Tract 1141,Salt Lake County,Utah,16.94158975
+49035112818,2020,"Census Tract 1128.18, Salt Lake County, Utah",Census Tract 1128.18,Salt Lake County,Utah,18.41369278
+49057210203,2020,"Census Tract 2102.03, Weber County, Utah",Census Tract 2102.03,Weber County,Utah,9.936678836
+49057210509,2020,"Census Tract 2105.09, Weber County, Utah",Census Tract 2105.09,Weber County,Utah,13.46389606
+49057210508,2020,"Census Tract 2105.08, Weber County, Utah",Census Tract 2105.08,Weber County,Utah,15.14688397
+49057210510,2020,"Census Tract 2105.10, Weber County, Utah",Census Tract 2105.10,Weber County,Utah,13.12729871
+49049001001,2020,"Census Tract 10.01, Utah County, Utah",Census Tract 10.01,Utah County,Utah,21.38485298
+49049001002,2020,"Census Tract 10.02, Utah County, Utah",Census Tract 10.02,Utah County,Utah,20.80688408
+49049001103,2020,"Census Tract 11.03, Utah County, Utah",Census Tract 11.03,Utah County,Utah,21.38485298
+49049001201,2020,"Census Tract 12.01, Utah County, Utah",Census Tract 12.01,Utah County,Utah,21.15366578
+49049001202,2020,"Census Tract 12.02, Utah County, Utah",Census Tract 12.02,Utah County,Utah,22.54079079
+49049001300,2020,"Census Tract 13, Utah County, Utah",Census Tract 13,Utah County,Utah,23.58113553
+49049000707,2020,"Census Tract 7.07, Utah County, Utah",Census Tract 7.07,Utah County,Utah,21.96282248
+49049000706,2020,"Census Tract 7.06, Utah County, Utah",Census Tract 7.06,Utah County,Utah,25.57512887
+49049001602,2020,"Census Tract 16.02, Utah County, Utah",Census Tract 16.02,Utah County,Utah,20.35282886
+49057210600,2020,"Census Tract 2106, Weber County, Utah",Census Tract 2106,Weber County,Utah,16.5380237
+49057210701,2020,"Census Tract 2107.01, Weber County, Utah",Census Tract 2107.01,Weber County,Utah,18.40753967
+49057210703,2020,"Census Tract 2107.03, Weber County, Utah",Census Tract 2107.03,Weber County,Utah,15.81897896
+49049001803,2020,"Census Tract 18.03, Utah County, Utah",Census Tract 18.03,Utah County,Utah,20.08859774
+49049001900,2020,"Census Tract 19, Utah County, Utah",Census Tract 19,Utah County,Utah,19.90809765
+49029970200,2020,"Census Tract 9702, Morgan County, Utah",Census Tract 9702,Morgan County,Utah,7.265735353
+49049001504,2020,"Census Tract 15.04, Utah County, Utah",Census Tract 15.04,Utah County,Utah,18.61089844
+49049000904,2020,"Census Tract 9.04, Utah County, Utah",Census Tract 9.04,Utah County,Utah,19.93993073
+49023010200,2020,"Census Tract 102, Juab County, Utah",Census Tract 102,Juab County,Utah,3.48635836
+49023010100,2020,"Census Tract 101, Juab County, Utah",Census Tract 101,Juab County,Utah,15.59078003
+49049003201,2020,"Census Tract 32.01, Utah County, Utah",Census Tract 32.01,Utah County,Utah,15.74559883
+49049002300,2020,"Census Tract 23, Utah County, Utah",Census Tract 23,Utah County,Utah,19.14240145
+49005001002,2020,"Census Tract 10.02, Cache County, Utah",Census Tract 10.02,Cache County,Utah,16.73723652
+49005001402,2020,"Census Tract 14.02, Cache County, Utah",Census Tract 14.02,Cache County,Utah,11.66074372
+49005001202,2020,"Census Tract 12.02, Cache County, Utah",Census Tract 12.02,Cache County,Utah,12.22784782
+49005001401,2020,"Census Tract 14.01, Cache County, Utah",Census Tract 14.01,Cache County,Utah,13.41490225
+49005001201,2020,"Census Tract 12.01, Cache County, Utah",Census Tract 12.01,Cache County,Utah,11.89208901
+49003960602,2020,"Census Tract 9606.02, Box Elder County, Utah",Census Tract 9606.02,Box Elder County,Utah,11.22804322
+49035113905,2020,"Census Tract 1139.05, Salt Lake County, Utah",Census Tract 1139.05,Salt Lake County,Utah,14.11389784
+49035104800,2020,"Census Tract 1048, Salt Lake County, Utah",Census Tract 1048,Salt Lake County,Utah,16.05574677
+49035111400,2020,"Census Tract 1114, Salt Lake County, Utah",Census Tract 1114,Salt Lake County,Utah,16.51691042
+49035112916,2020,"Census Tract 1129.16, Salt Lake County, Utah",Census Tract 1129.16,Salt Lake County,Utah,17.03875205
+49035112918,2020,"Census Tract 1129.18, Salt Lake County, Utah",Census Tract 1129.18,Salt Lake County,Utah,19.97476782
+49035113007,2020,"Census Tract 1130.07, Salt Lake County, Utah",Census Tract 1130.07,Salt Lake County,Utah,15.07274208
+49035113008,2020,"Census Tract 1130.08, Salt Lake County, Utah",Census Tract 1130.08,Salt Lake County,Utah,16.38341529
+49035113406,2020,"Census Tract 1134.06, Salt Lake County, Utah",Census Tract 1134.06,Salt Lake County,Utah,17.98602438
+49035113408,2020,"Census Tract 1134.08, Salt Lake County, Utah",Census Tract 1134.08,Salt Lake County,Utah,13.55846365
+49035113409,2020,"Census Tract 1134.09, Salt Lake County, Utah",Census Tract 1134.09,Salt Lake County,Utah,13.64457006
+49035113410,2020,"Census Tract 1134.10, Salt Lake County, Utah",Census Tract 1134.10,Salt Lake County,Utah,15.50519321
+49035113411,2020,"Census Tract 1134.11, Salt Lake County, Utah",Census Tract 1134.11,Salt Lake County,Utah,22.94768671
+49013940300,2020,"Census Tract 9403, Duchesne County, Utah",Census Tract 9403,Duchesne County,Utah,4.41935682
+49011127002,2020,"Census Tract 1270.02, Davis County, Utah",Census Tract 1270.02,Davis County,Utah,18.20580528
+49035113010,2020,"Census Tract 1130.10, Salt Lake County, Utah",Census Tract 1130.10,Salt Lake County,Utah,17.80338647
+49035113412,2020,"Census Tract 1134.12, Salt Lake County, Utah",Census Tract 1134.12,Salt Lake County,Utah,14.26477763
+49035113413,2020,"Census Tract 1134.13, Salt Lake County, Utah",Census Tract 1134.13,Salt Lake County,Utah,14.26477763
+49035113505,2020,"Census Tract 1135.05, Salt Lake County, Utah",Census Tract 1135.05,Salt Lake County,Utah,15.50519321
+49035113509,2020,"Census Tract 1135.09, Salt Lake County, Utah",Census Tract 1135.09,Salt Lake County,Utah,17.61803778
+49011126500,2020,"Census Tract 1265, Davis County, Utah",Census Tract 1265,Davis County,Utah,15.00444182
+49011126600,2020,"Census Tract 1266, Davis County, Utah",Census Tract 1266,Davis County,Utah,18.02904206
+49011126700,2020,"Census Tract 1267, Davis County, Utah",Census Tract 1267,Davis County,Utah,18.78025202
+49011126801,2020,"Census Tract 1268.01, Davis County, Utah",Census Tract 1268.01,Davis County,Utah,13.16718732
+49011125102,2020,"Census Tract 1251.02, Davis County, Utah",Census Tract 1251.02,Davis County,Utah,8.107932007
+49011126305,2020,"Census Tract 1263.05, Davis County, Utah",Census Tract 1263.05,Davis County,Utah,7.840646054
+49011125104,2020,"Census Tract 1251.04, Davis County, Utah",Census Tract 1251.04,Davis County,Utah,11.64590613
+49011126303,2020,"Census Tract 1263.03, Davis County, Utah",Census Tract 1263.03,Davis County,Utah,9.648414917
+49011125805,2020,"Census Tract 1258.05, Davis County, Utah",Census Tract 1258.05,Davis County,Utah,17.75256269
+49011126404,2020,"Census Tract 1264.04, Davis County, Utah",Census Tract 1264.04,Davis County,Utah,11.0439735
+49035113510,2020,"Census Tract 1135.10, Salt Lake County, Utah",Census Tract 1135.10,Salt Lake County,Utah,15.905173
+49035113511,2020,"Census Tract 1135.11, Salt Lake County, Utah",Census Tract 1135.11,Salt Lake County,Utah,18.04625398
+49011126802,2020,"Census Tract 1268.02, Davis County, Utah",Census Tract 1268.02,Davis County,Utah,13.31686209
+49011126901,2020,"Census Tract 1269.01, Davis County, Utah",Census Tract 1269.01,Davis County,Utah,19.90706717
+49011126902,2020,"Census Tract 1269.02, Davis County, Utah",Census Tract 1269.02,Davis County,Utah,17.27783166
+49007000500,2020,"Census Tract 5, Carbon County, Utah",Census Tract 5,Carbon County,Utah,6.285258266
+49007000300,2020,"Census Tract 3, Carbon County, Utah",Census Tract 3,Carbon County,Utah,18.30035158
+49007000100,2020,"Census Tract 1, Carbon County, Utah",Census Tract 1,Carbon County,Utah,11.52255735
+49007000200,2020,"Census Tract 2, Carbon County, Utah",Census Tract 2,Carbon County,Utah,14.51112418
+49035104000,2020,"Census Tract 1040, Salt Lake County, Utah",Census Tract 1040,Salt Lake County,Utah,14.85579308
+49057200100,2020,"Census Tract 2001, Weber County, Utah",Census Tract 2001,Weber County,Utah,16.31148936
+49057201900,2020,"Census Tract 2019, Weber County, Utah",Census Tract 2019,Weber County,Utah,18.50341242
+49057211202,2020,"Census Tract 2112.02, Weber County, Utah",Census Tract 2112.02,Weber County,Utah,15.49312214
+49057200600,2020,"Census Tract 2006, Weber County, Utah",Census Tract 2006,Weber County,Utah,17.65145812
+49057200202,2020,"Census Tract 2002.02, Weber County, Utah",Census Tract 2002.02,Weber County,Utah,16.15472961
+49057201500,2020,"Census Tract 2015, Weber County, Utah",Census Tract 2015,Weber County,Utah,14.23725931
+49057211201,2020,"Census Tract 2112.01, Weber County, Utah",Census Tract 2112.01,Weber County,Utah,11.06670751
+49057200400,2020,"Census Tract 2004, Weber County, Utah",Census Tract 2004,Weber County,Utah,17.61659081
+49057200700,2020,"Census Tract 2007, Weber County, Utah",Census Tract 2007,Weber County,Utah,14.99332882
+49057200800,2020,"Census Tract 2008, Weber County, Utah",Census Tract 2008,Weber County,Utah,15.81897896
+49057200900,2020,"Census Tract 2009, Weber County, Utah",Census Tract 2009,Weber County,Utah,16.5380237
+49057201200,2020,"Census Tract 2012, Weber County, Utah",Census Tract 2012,Weber County,Utah,20.85229036
+49057201400,2020,"Census Tract 2014, Weber County, Utah",Census Tract 2014,Weber County,Utah,14.78061108
+49057201600,2020,"Census Tract 2016, Weber County, Utah",Census Tract 2016,Weber County,Utah,15.81897896
+49057201700,2020,"Census Tract 2017, Weber County, Utah",Census Tract 2017,Weber County,Utah,15.81897896
+49057201800,2020,"Census Tract 2018, Weber County, Utah",Census Tract 2018,Weber County,Utah,19.41420177
+49057210201,2020,"Census Tract 2102.01, Weber County, Utah",Census Tract 2102.01,Weber County,Utah,9.708701954
+49005000800,2020,"Census Tract 8, Cache County, Utah",Census Tract 8,Cache County,Utah,18.64983322
+49005980100,2020,"Census Tract 9801, Cache County, Utah",Census Tract 9801,Cache County,Utah,5.263841694
+49005000202,2020,"Census Tract 2.02, Cache County, Utah",Census Tract 2.02,Cache County,Utah,10.28114163
+49005000102,2020,"Census Tract 1.02, Cache County, Utah",Census Tract 1.02,Cache County,Utah,9.952625596
+49005000201,2020,"Census Tract 2.01, Cache County, Utah",Census Tract 2.01,Cache County,Utah,11.95275046
+49005001102,2020,"Census Tract 11.02, Cache County, Utah",Census Tract 11.02,Cache County,Utah,12.99855467
+49005000101,2020,"Census Tract 1.01, Cache County, Utah",Census Tract 1.01,Cache County,Utah,10.50407091
+49005000701,2020,"Census Tract 7.01, Cache County, Utah",Census Tract 7.01,Cache County,Utah,13.95896077
+49005000900,2020,"Census Tract 9, Cache County, Utah",Census Tract 9,Cache County,Utah,14.89839794
+49005001500,2020,"Census Tract 15, Cache County, Utah",Census Tract 15,Cache County,Utah,7.595155916
+49005001300,2020,"Census Tract 13, Cache County, Utah",Census Tract 13,Cache County,Utah,10.65707302
+49005001101,2020,"Census Tract 11.01, Cache County, Utah",Census Tract 11.01,Cache County,Utah,12.44421642
+49005000403,2020,"Census Tract 4.03, Cache County, Utah",Census Tract 4.03,Cache County,Utah,13.5192365
+49005000401,2020,"Census Tract 4.01, Cache County, Utah",Census Tract 4.01,Cache County,Utah,15.40544916
+49005000402,2020,"Census Tract 4.02, Cache County, Utah",Census Tract 4.02,Cache County,Utah,7.319221148
+49005000702,2020,"Census Tract 7.02, Cache County, Utah",Census Tract 7.02,Cache County,Utah,15.91867718
+49049000601,2020,"Census Tract 6.01, Utah County, Utah",Census Tract 6.01,Utah County,Utah,20.84624462
+49049000203,2020,"Census Tract 2.03, Utah County, Utah",Census Tract 2.03,Utah County,Utah,17.27952103
+49027974200,2020,"Census Tract 9742, Millard County, Utah",Census Tract 9742,Millard County,Utah,3.082017775
+49027974300,2020,"Census Tract 9743, Millard County, Utah",Census Tract 9743,Millard County,Utah,5.751677161
+49027974100,2020,"Census Tract 9741, Millard County, Utah",Census Tract 9741,Millard County,Utah,6.627778346
+49011127003,2020,"Census Tract 1270.03, Davis County, Utah",Census Tract 1270.03,Davis County,Utah,15.62385792
+49011125305,2020,"Census Tract 1253.05, Davis County, Utah",Census Tract 1253.05,Davis County,Utah,15.22771027
+49011126402,2020,"Census Tract 1264.02, Davis County, Utah",Census Tract 1264.02,Davis County,Utah,5.589222099
+49011126204,2020,"Census Tract 1262.04, Davis County, Utah",Census Tract 1262.04,Davis County,Utah,6.999025033
+49011125103,2020,"Census Tract 1251.03, Davis County, Utah",Census Tract 1251.03,Davis County,Utah,14.33636393
+49011125301,2020,"Census Tract 1253.01, Davis County, Utah",Census Tract 1253.01,Davis County,Utah,16.09565689
+49011126101,2020,"Census Tract 1261.01, Davis County, Utah",Census Tract 1261.01,Davis County,Utah,12.98823078
+49035111906,2020,"Census Tract 1119.06, Salt Lake County, Utah",Census Tract 1119.06,Salt Lake County,Utah,15.905173
+49011125304,2020,"Census Tract 1253.04, Davis County, Utah",Census Tract 1253.04,Davis County,Utah,15.56482757
+49049003203,2020,"Census Tract 32.03, Utah County, Utah",Census Tract 32.03,Utah County,Utah,13.265997
+49049003403,2020,"Census Tract 34.03, Utah County, Utah",Census Tract 34.03,Utah County,Utah,15.54059956
+49049002101,2020,"Census Tract 21.01, Utah County, Utah",Census Tract 21.01,Utah County,Utah,21.06629317
+49049002102,2020,"Census Tract 21.02, Utah County, Utah",Census Tract 21.02,Utah County,Utah,18.37670525
+49035114500,2020,"Census Tract 1145, Salt Lake County, Utah",Census Tract 1145,Salt Lake County,Utah,17.7976497
+49035113101,2020,"Census Tract 1131.01, Salt Lake County, Utah",Census Tract 1131.01,Salt Lake County,Utah,16.82030626
+49035113102,2020,"Census Tract 1131.02, Salt Lake County, Utah",Census Tract 1131.02,Salt Lake County,Utah,19.66009907
+49035113528,2020,"Census Tract 1135.28, Salt Lake County, Utah",Census Tract 1135.28,Salt Lake County,Utah,15.72807854
+49035113532,2020,"Census Tract 1135.32, Salt Lake County, Utah",Census Tract 1135.32,Salt Lake County,Utah,17.03875145
+49035113533,2020,"Census Tract 1135.33, Salt Lake County, Utah",Census Tract 1135.33,Salt Lake County,Utah,17.51648366
+49035114700,2020,"Census Tract 1147, Salt Lake County, Utah",Census Tract 1147,Salt Lake County,Utah,16.60240733
+49035112619,2020,"Census Tract 1126.19, Salt Lake County, Utah",Census Tract 1126.19,Salt Lake County,Utah,18.0871632
+49035112821,2020,"Census Tract 1128.21, Salt Lake County, Utah",Census Tract 1128.21,Salt Lake County,Utah,14.59198485
+49035112907,2020,"Census Tract 1129.07, Salt Lake County, Utah",Census Tract 1129.07,Salt Lake County,Utah,18.12525263
+49035113105,2020,"Census Tract 1131.05, Salt Lake County, Utah",Census Tract 1131.05,Salt Lake County,Utah,8.875334291
+49035113702,2020,"Census Tract 1137.02, Salt Lake County, Utah",Census Tract 1137.02,Salt Lake County,Utah,15.72807854
+49035112001,2020,"Census Tract 1120.01, Salt Lake County, Utah",Census Tract 1120.01,Salt Lake County,Utah,14.68169815
+49035112816,2020,"Census Tract 1128.16, Salt Lake County, Utah",Census Tract 1128.16,Salt Lake County,Utah,15.05018856
+49035112618,2020,"Census Tract 1126.18, Salt Lake County, Utah",Census Tract 1126.18,Salt Lake County,Utah,17.55518776
+49035114200,2020,"Census Tract 1142, Salt Lake County, Utah",Census Tract 1142,Salt Lake County,Utah,19.05001022
+49035113307,2020,"Census Tract 1133.07, Salt Lake County, Utah",Census Tract 1133.07,Salt Lake County,Utah,18.8129678
+49035113308,2020,"Census Tract 1133.08, Salt Lake County, Utah",Census Tract 1133.08,Salt Lake County,Utah,17.77928867
+49035113600,2020,"Census Tract 1136, Salt Lake County, Utah",Census Tract 1136,Salt Lake County,Utah,15.50519321
+49035113801,2020,"Census Tract 1138.01, Salt Lake County, Utah",Census Tract 1138.01,Salt Lake County,Utah,14.57488142
+49035113802,2020,"Census Tract 1138.02, Salt Lake County, Utah",Census Tract 1138.02,Salt Lake County,Utah,14.8849852
+49035112912,2020,"Census Tract 1129.12, Salt Lake County, Utah",Census Tract 1129.12,Salt Lake County,Utah,17.03875235
+49035112913,2020,"Census Tract 1129.13, Salt Lake County, Utah",Census Tract 1129.13,Salt Lake County,Utah,15.72807854
+49035112914,2020,"Census Tract 1129.14, Salt Lake County, Utah",Census Tract 1129.14,Salt Lake County,Utah,20.34467068
+49035113904,2020,"Census Tract 1139.04, Salt Lake County, Utah",Census Tract 1139.04,Salt Lake County,Utah,15.39697868
+49001100200,2020,"Census Tract 1002, Beaver County, Utah",Census Tract 1002,Beaver County,Utah,3.627684312
+49001100100,2020,"Census Tract 1001, Beaver County, Utah",Census Tract 1001,Beaver County,Utah,6.444589079
+49049000603,2020,"Census Tract 6.03, Utah County, Utah",Census Tract 6.03,Utah County,Utah,18.49500847
+49049010208,2020,"Census Tract 102.08, Utah County, Utah",Census Tract 102.08,Utah County,Utah,12.25275642
+49049010212,2020,"Census Tract 102.12, Utah County, Utah",Census Tract 102.12,Utah County,Utah,10.860009
+49049010213,2020,"Census Tract 102.13, Utah County, Utah",Census Tract 102.13,Utah County,Utah,13.65647651
+49057210512,2020,"Census Tract 2105.12, Weber County, Utah",Census Tract 2105.12,Weber County,Utah,17.52406657
+49035104100,2020,"Census Tract 1041, Salt Lake County, Utah",Census Tract 1041,Salt Lake County,Utah,17.5568471
+49035104300,2020,"Census Tract 1043, Salt Lake County, Utah",Census Tract 1043,Salt Lake County,Utah,15.5310568
+49035104400,2020,"Census Tract 1044, Salt Lake County, Utah",Census Tract 1044,Salt Lake County,Utah,15.5310568
+49035104900,2020,"Census Tract 1049, Salt Lake County, Utah",Census Tract 1049,Salt Lake County,Utah,18.96386011
+49035110200,2020,"Census Tract 1102, Salt Lake County, Utah",Census Tract 1102,Salt Lake County,Utah,16.5921845
+49035110500,2020,"Census Tract 1105, Salt Lake County, Utah",Census Tract 1105,Salt Lake County,Utah,15.98123203
+49049000604,2020,"Census Tract 6.04, Utah County, Utah",Census Tract 6.04,Utah County,Utah,14.58833726
+49049000708,2020,"Census Tract 7.08, Utah County, Utah",Census Tract 7.08,Utah County,Utah,19.93993073
+49049000709,2020,"Census Tract 7.09, Utah County, Utah",Census Tract 7.09,Utah County,Utah,19.65094627
+49049000710,2020,"Census Tract 7.10, Utah County, Utah",Census Tract 7.10,Utah County,Utah,17.33907066
+49049001105,2020,"Census Tract 11.05, Utah County, Utah",Census Tract 11.05,Utah County,Utah,21.38485298
+49049001106,2020,"Census Tract 11.06, Utah County, Utah",Census Tract 11.06,Utah County,Utah,21.96282188
+49049001108,2020,"Census Tract 11.08, Utah County, Utah",Census Tract 11.08,Utah County,Utah,24.27469929
+49049010216,2020,"Census Tract 102.16, Utah County, Utah",Census Tract 102.16,Utah County,Utah,15.10566417
+49049010219,2020,"Census Tract 102.19, Utah County, Utah",Census Tract 102.19,Utah County,Utah,14.09119961
+49049010404,2020,"Census Tract 104.04, Utah County, Utah",Census Tract 104.04,Utah County,Utah,13.95150421
+49049010405,2020,"Census Tract 104.05, Utah County, Utah",Census Tract 104.05,Utah County,Utah,12.15740959
+49049001702,2020,"Census Tract 17.02, Utah County, Utah",Census Tract 17.02,Utah County,Utah,16.94020966
+49049002204,2020,"Census Tract 22.04, Utah County, Utah",Census Tract 22.04,Utah County,Utah,15.53247477
+49049002205,2020,"Census Tract 22.05, Utah County, Utah",Census Tract 22.05,Utah County,Utah,13.52770424
+49049010407,2020,"Census Tract 104.07, Utah County, Utah",Census Tract 104.07,Utah County,Utah,11.30947944
+49049010408,2020,"Census Tract 104.08, Utah County, Utah",Census Tract 104.08,Utah County,Utah,9.21235299
+49003960400,2020,"Census Tract 9604, Box Elder County, Utah",Census Tract 9604,Box Elder County,Utah,7.315638293
+49003960100,2020,"Census Tract 9601, Box Elder County, Utah",Census Tract 9601,Box Elder County,Utah,3.298190339
+49003960500,2020,"Census Tract 9605, Box Elder County, Utah",Census Tract 9605,Box Elder County,Utah,6.310084952
+49049010505,2020,"Census Tract 105.05, Utah County, Utah",Census Tract 105.05,Utah County,Utah,12.40344833
+49049010506,2020,"Census Tract 105.06, Utah County, Utah",Census Tract 105.06,Utah County,Utah,14.05424813
+49049010700,2020,"Census Tract 107, Utah County, Utah",Census Tract 107,Utah County,Utah,14.60298451
+49049002901,2020,"Census Tract 29.01, Utah County, Utah",Census Tract 29.01,Utah County,Utah,15.78994053
+49049002902,2020,"Census Tract 29.02, Utah County, Utah",Census Tract 29.02,Utah County,Utah,18.73770602
+49003960702,2020,"Census Tract 9607.02, Box Elder County, Utah",Census Tract 9607.02,Box Elder County,Utah,13.80982013
+49003960701,2020,"Census Tract 9607.01, Box Elder County, Utah",Census Tract 9607.01,Box Elder County,Utah,12.8933685
+49003960801,2020,"Census Tract 9608.01, Box Elder County, Utah",Census Tract 9608.01,Box Elder County,Utah,9.396256683
+49003960200,2020,"Census Tract 9602, Box Elder County, Utah",Census Tract 9602,Box Elder County,Utah,12.18661993
+49003960802,2020,"Census Tract 9608.02, Box Elder County, Utah",Census Tract 9608.02,Box Elder County,Utah,13.12856505
+49049003001,2020,"Census Tract 30.01, Utah County, Utah",Census Tract 30.01,Utah County,Utah,13.76881737
+49049003002,2020,"Census Tract 30.02, Utah County, Utah",Census Tract 30.02,Utah County,Utah,8.429227877
+49049003103,2020,"Census Tract 31.03, Utah County, Utah",Census Tract 31.03,Utah County,Utah,10.32578986
+49049003106,2020,"Census Tract 31.06, Utah County, Utah",Census Tract 31.06,Utah County,Utah,14.8210014
+49049003204,2020,"Census Tract 32.04, Utah County, Utah",Census Tract 32.04,Utah County,Utah,15.74559883
+49049003205,2020,"Census Tract 32.05, Utah County, Utah",Census Tract 32.05,Utah County,Utah,16.92651812
+49049010107,2020,"Census Tract 101.07, Utah County, Utah",Census Tract 101.07,Utah County,Utah,6.095599551
+49049000104,2020,"Census Tract 1.04, Utah County, Utah",Census Tract 1.04,Utah County,Utah,14.31819104
+49049000105,2020,"Census Tract 1.05, Utah County, Utah",Census Tract 1.05,Utah County,Utah,16.00896801
+49035110600,2020,"Census Tract 1106, Salt Lake County, Utah",Census Tract 1106,Salt Lake County,Utah,15.19342472
+49035112402,2020,"Census Tract 1124.02, Salt Lake County, Utah",Census Tract 1124.02,Salt Lake County,Utah,19.2349612
+49035112501,2020,"Census Tract 1125.01, Salt Lake County, Utah",Census Tract 1125.01,Salt Lake County,Utah,20.22136943
+49035112503,2020,"Census Tract 1125.03, Salt Lake County, Utah",Census Tract 1125.03,Salt Lake County,Utah,21.4543806
+49049000205,2020,"Census Tract 2.05, Utah County, Utah",Census Tract 2.05,Utah County,Utah,14.86547029
+49049000206,2020,"Census Tract 2.06, Utah County, Utah",Census Tract 2.06,Utah County,Utah,15.75485741
+49049000504,2020,"Census Tract 5.04, Utah County, Utah",Census Tract 5.04,Utah County,Utah,17.92050346
+49049000506,2020,"Census Tract 5.06, Utah County, Utah",Census Tract 5.06,Utah County,Utah,17.06714633
+49049000508,2020,"Census Tract 5.08, Utah County, Utah",Census Tract 5.08,Utah County,Utah,17.55591927
+49035110701,2020,"Census Tract 1107.01, Salt Lake County, Utah",Census Tract 1107.01,Salt Lake County,Utah,17.5568471
+49035110702,2020,"Census Tract 1107.02, Salt Lake County, Utah",Census Tract 1107.02,Salt Lake County,Utah,16.20631964
+49035110900,2020,"Census Tract 1109, Salt Lake County, Utah",Census Tract 1109,Salt Lake County,Utah,14.85579308
+49035111201,2020,"Census Tract 1112.01, Salt Lake County, Utah",Census Tract 1112.01,Salt Lake County,Utah,20.16547134
+49035111202,2020,"Census Tract 1112.02, Salt Lake County, Utah",Census Tract 1112.02,Salt Lake County,Utah,19.88280375
+49035111302,2020,"Census Tract 1113.02, Salt Lake County, Utah",Census Tract 1113.02,Salt Lake County,Utah,15.46035483
+49035111305,2020,"Census Tract 1113.05, Salt Lake County, Utah",Census Tract 1113.05,Salt Lake County,Utah,18.35315092
+49035112201,2020,"Census Tract 1122.01, Salt Lake County, Utah",Census Tract 1122.01,Salt Lake County,Utah,20.79982719
+49017000300,2020,"Census Tract 3, Garfield County, Utah",Census Tract 3,Garfield County,Utah,6.777671618
+49035102801,2020,"Census Tract 1028.01, Salt Lake County, Utah",Census Tract 1028.01,Salt Lake County,Utah,19.0862076
+49035102900,2020,"Census Tract 1029, Salt Lake County, Utah",Census Tract 1029,Salt Lake County,Utah,19.37168506
+49035103000,2020,"Census Tract 1030, Salt Lake County, Utah",Census Tract 1030,Salt Lake County,Utah,18.35212269
+49035103100,2020,"Census Tract 1031, Salt Lake County, Utah",Census Tract 1031,Salt Lake County,Utah,17.12864784
+49035103200,2020,"Census Tract 1032, Salt Lake County, Utah",Census Tract 1032,Salt Lake County,Utah,18.35212269
+49035103300,2020,"Census Tract 1033, Salt Lake County, Utah",Census Tract 1033,Salt Lake County,Utah,17.12864784
+49035103400,2020,"Census Tract 1034, Salt Lake County, Utah",Census Tract 1034,Salt Lake County,Utah,15.905173
+49035103600,2020,"Census Tract 1036, Salt Lake County, Utah",Census Tract 1036,Salt Lake County,Utah,16.20632053
+49035103700,2020,"Census Tract 1037, Salt Lake County, Utah",Census Tract 1037,Salt Lake County,Utah,16.20632053
+49035103800,2020,"Census Tract 1038, Salt Lake County, Utah",Census Tract 1038,Salt Lake County,Utah,16.20632053
+49035103900,2020,"Census Tract 1039, Salt Lake County, Utah",Census Tract 1039,Salt Lake County,Utah,16.20632053
+49035112202,2020,"Census Tract 1122.02, Salt Lake County, Utah",Census Tract 1122.02,Salt Lake County,Utah,19.22897612
+49035112301,2020,"Census Tract 1123.01, Salt Lake County, Utah",Census Tract 1123.01,Salt Lake County,Utah,19.19681948
+49035112302,2020,"Census Tract 1123.02, Salt Lake County, Utah",Census Tract 1123.02,Salt Lake County,Utah,20.71457383
+49035101500,2020,"Census Tract 1015, Salt Lake County, Utah",Census Tract 1015,Salt Lake County,Utah,16.48694645
+49035101600,2020,"Census Tract 1016, Salt Lake County, Utah",Census Tract 1016,Salt Lake County,Utah,17.8608588
+49035101700,2020,"Census Tract 1017, Salt Lake County, Utah",Census Tract 1017,Salt Lake County,Utah,17.8608588
+49035101800,2020,"Census Tract 1018, Salt Lake County, Utah",Census Tract 1018,Salt Lake County,Utah,19.23477116
+49035101900,2020,"Census Tract 1019, Salt Lake County, Utah",Census Tract 1019,Salt Lake County,Utah,20.60868351
+49035102000,2020,"Census Tract 1020, Salt Lake County, Utah",Census Tract 1020,Salt Lake County,Utah,24.73042057
+49041975100,2020,"Census Tract 9751, Sevier County, Utah",Census Tract 9751,Sevier County,Utah,8.059898208
+49041975400,2020,"Census Tract 9754, Sevier County, Utah",Census Tract 9754,Sevier County,Utah,17.60189358
+49041975300,2020,"Census Tract 9753, Sevier County, Utah",Census Tract 9753,Sevier County,Utah,7.020419227
+49041975500,2020,"Census Tract 9755, Sevier County, Utah",Census Tract 9755,Sevier County,Utah,8.665379091
+49041975200,2020,"Census Tract 9752, Sevier County, Utah",Census Tract 9752,Sevier County,Utah,6.616055365
+49047968302,2020,"Census Tract 9683.02, Uintah County, Utah",Census Tract 9683.02,Uintah County,Utah,4.039036125
+49047968401,2020,"Census Tract 9684.01, Uintah County, Utah",Census Tract 9684.01,Uintah County,Utah,17.20421253
+49047968301,2020,"Census Tract 9683.01, Uintah County, Utah",Census Tract 9683.01,Uintah County,Utah,10.69512178
+49047940201,2020,"Census Tract 9402.01, Uintah County, Utah",Census Tract 9402.01,Uintah County,Utah,2.921810568
+49053271800,2020,"Census Tract 2718, Washington County, Utah",Census Tract 2718,Washington County,Utah,17.36448603
+49053271400,2020,"Census Tract 2714, Washington County, Utah",Census Tract 2714,Washington County,Utah,17.59561021
+49053271300,2020,"Census Tract 2713, Washington County, Utah",Census Tract 2713,Washington County,Utah,17.59561006
+49053270200,2020,"Census Tract 2702, Washington County, Utah",Census Tract 2702,Washington County,Utah,3.501664642
+49053271000,2020,"Census Tract 2710, Washington County, Utah",Census Tract 2710,Washington County,Utah,10.84051648
+49053271200,2020,"Census Tract 2712, Washington County, Utah",Census Tract 2712,Washington County,Utah,17.72936942
+49053271600,2020,"Census Tract 2716, Washington County, Utah",Census Tract 2716,Washington County,Utah,13.57698923
+49053270901,2020,"Census Tract 2709.01, Washington County, Utah",Census Tract 2709.01,Washington County,Utah,4.660348371
+49053270802,2020,"Census Tract 2708.02, Washington County, Utah",Census Tract 2708.02,Washington County,Utah,8.185091324
+49053271702,2020,"Census Tract 2717.02, Washington County, Utah",Census Tract 2717.02,Washington County,Utah,14.43435216
+49035102300,2020,"Census Tract 1023, Salt Lake County, Utah",Census Tract 1023,Salt Lake County,Utah,20.60868351
+49035102600,2020,"Census Tract 1026, Salt Lake County, Utah",Census Tract 1026,Salt Lake County,Utah,23.08172575
+49035111306,2020,"Census Tract 1113.06, Salt Lake County, Utah",Census Tract 1113.06,Salt Lake County,Utah,20.74704041
+49035102802,2020,"Census Tract 1028.02, Salt Lake County, Utah",Census Tract 1028.02,Salt Lake County,Utah,19.20855508
+49035112604,2020,"Census Tract 1126.04, Salt Lake County, Utah",Census Tract 1126.04,Salt Lake County,Utah,19.2349621
+49049000711,2020,"Census Tract 7.11, Utah County, Utah",Census Tract 7.11,Utah County,Utah,18.68149227
+49049001107,2020,"Census Tract 11.07, Utah County, Utah",Census Tract 11.07,Utah County,Utah,23.40774504
+49049010217,2020,"Census Tract 102.17, Utah County, Utah",Census Tract 102.17,Utah County,Utah,12.20366339
+49049010220,2020,"Census Tract 102.20, Utah County, Utah",Census Tract 102.20,Utah County,Utah,13.80939864
+49049010303,2020,"Census Tract 103.03, Utah County, Utah",Census Tract 103.03,Utah County,Utah,8.991488995
+49049010305,2020,"Census Tract 103.05, Utah County, Utah",Census Tract 103.05,Utah County,Utah,9.381832971
+49049001701,2020,"Census Tract 17.01, Utah County, Utah",Census Tract 17.01,Utah County,Utah,12.29209715
+49025130200,2020,"Census Tract 1302, Kane County, Utah",Census Tract 1302,Kane County,Utah,4.681923925
+49025130100,2020,"Census Tract 1301, Kane County, Utah",Census Tract 1301,Kane County,Utah,3.084704764
+49035112815,2020,"Census Tract 1128.15, Salt Lake County, Utah",Census Tract 1128.15,Salt Lake County,Utah,10.19239081
+49035110800,2020,"Census Tract 1108, Salt Lake County, Utah",Census Tract 1108,Salt Lake County,Utah,14.31558245
+49035112812,2020,"Census Tract 1128.12, Salt Lake County, Utah",Census Tract 1128.12,Salt Lake County,Utah,19.23496192
+49035112616,2020,"Census Tract 1126.16, Salt Lake County, Utah",Census Tract 1126.16,Salt Lake County,Utah,16.49123688
+49035112614,2020,"Census Tract 1126.14, Salt Lake County, Utah",Census Tract 1126.14,Salt Lake County,Utah,17.37239132
+49035113016,2020,"Census Tract 1130.16, Salt Lake County, Utah",Census Tract 1130.16,Salt Lake County,Utah,14.86508736
+49035111001,2020,"Census Tract 1110.01, Salt Lake County, Utah",Census Tract 1110.01,Salt Lake County,Utah,15.16852987
+49035113012,2020,"Census Tract 1130.12, Salt Lake County, Utah",Census Tract 1130.12,Salt Lake County,Utah,18.41998111
+49035111500,2020,"Census Tract 1115, Salt Lake County, Utah",Census Tract 1115,Salt Lake County,Utah,19.26972882
+49035112814,2020,"Census Tract 1128.14, Salt Lake County, Utah",Census Tract 1128.14,Salt Lake County,Utah,13.93936488
+49035104200,2020,"Census Tract 1042, Salt Lake County, Utah",Census Tract 1042,Salt Lake County,Utah,13.04139118
+49035110103,2020,"Census Tract 1101.03, Salt Lake County, Utah",Census Tract 1101.03,Salt Lake County,Utah,8.410136663
+49035112917,2020,"Census Tract 1129.17, Salt Lake County, Utah",Census Tract 1129.17,Salt Lake County,Utah,16.89703943
+49035112700,2020,"Census Tract 1127, Salt Lake County, Utah",Census Tract 1127,Salt Lake County,Utah,19.60486451
+49035111002,2020,"Census Tract 1110.02, Salt Lake County, Utah",Census Tract 1110.02,Salt Lake County,Utah,17.95416934
+49035112609,2020,"Census Tract 1126.09, Salt Lake County, Utah",Census Tract 1126.09,Salt Lake County,Utah,17.78934151
+49035100200,2020,"Census Tract 1002, Salt Lake County, Utah",Census Tract 1002,Salt Lake County,Utah,10.24054697
+49035102100,2020,"Census Tract 1021, Salt Lake County, Utah",Census Tract 1021,Salt Lake County,Utah,21.98259586
+49035113903,2020,"Census Tract 1139.03, Salt Lake County, Utah",Census Tract 1139.03,Salt Lake County,Utah,13.01411392
+49035110104,2020,"Census Tract 1101.04, Salt Lake County, Utah",Census Tract 1101.04,Salt Lake County,Utah,7.681869504
+49035112611,2020,"Census Tract 1126.11, Salt Lake County, Utah",Census Tract 1126.11,Salt Lake County,Utah,19.2349618
+49035111304,2020,"Census Tract 1113.04, Salt Lake County, Utah",Census Tract 1113.04,Salt Lake County,Utah,15.47331762
+49035113014,2020,"Census Tract 1130.14, Salt Lake County, Utah",Census Tract 1130.14,Salt Lake County,Utah,16.84389896
+49035110300,2020,"Census Tract 1103, Salt Lake County, Utah",Census Tract 1103,Salt Lake County,Utah,16.20632053
+49035101200,2020,"Census Tract 1012, Salt Lake County, Utah",Census Tract 1012,Salt Lake County,Utah,14.98216438
+49035103500,2020,"Census Tract 1035, Salt Lake County, Utah",Census Tract 1035,Salt Lake County,Utah,15.29343557
+49035112617,2020,"Census Tract 1126.17, Salt Lake County, Utah",Census Tract 1126.17,Salt Lake County,Utah,15.45727973
+49035112813,2020,"Census Tract 1128.13, Salt Lake County, Utah",Census Tract 1128.13,Salt Lake County,Utah,17.65935122
+49049000103,2020,"Census Tract 1.03, Utah County, Utah",Census Tract 1.03,Utah County,Utah,16.80635437
+49035100100,2020,"Census Tract 1001, Salt Lake County, Utah",Census Tract 1001,Salt Lake County,Utah,21.70781339
+49035100306,2020,"Census Tract 1003.06, Salt Lake County, Utah",Census Tract 1003.06,Salt Lake County,Utah,21.29563969
+49035100500,2020,"Census Tract 1005, Salt Lake County, Utah",Census Tract 1005,Salt Lake County,Utah,21.06665429
+49035100600,2020,"Census Tract 1006, Salt Lake County, Utah",Census Tract 1006,Salt Lake County,Utah,20.26520542
+49035100700,2020,"Census Tract 1007, Salt Lake County, Utah",Census Tract 1007,Salt Lake County,Utah,19.69274194
+49035100800,2020,"Census Tract 1008, Salt Lake County, Utah",Census Tract 1008,Salt Lake County,Utah,27.47824528
+49035101000,2020,"Census Tract 1010, Salt Lake County, Utah",Census Tract 1010,Salt Lake County,Utah,17.17390263
+49049000102,2020,"Census Tract 1.02, Utah County, Utah",Census Tract 1.02,Utah County,Utah,14.22061095
+49057211000,2020,"Census Tract 2110, Weber County, Utah",Census Tract 2110,Weber County,Utah,17.25706844
+49057211100,2020,"Census Tract 2111, Weber County, Utah",Census Tract 2111,Weber County,Utah,16.39040656
+49049010110,2020,"Census Tract 101.10, Utah County, Utah",Census Tract 101.10,Utah County,Utah,10.3474366
+49057200500,2020,"Census Tract 2005, Weber County, Utah",Census Tract 2005,Weber County,Utah,15.77879344
+49057202000,2020,"Census Tract 2020, Weber County, Utah",Census Tract 2020,Weber County,Utah,15.66270155
+49057201100,2020,"Census Tract 2011, Weber County, Utah",Census Tract 2011,Weber County,Utah,18.93483921
+49039972500,2020,"Census Tract 9725, Sanpete County, Utah",Census Tract 9725,Sanpete County,Utah,4.694302595
+49039972300,2020,"Census Tract 9723, Sanpete County, Utah",Census Tract 9723,Sanpete County,Utah,6.286068396
+49039972200,2020,"Census Tract 9722, Sanpete County, Utah",Census Tract 9722,Sanpete County,Utah,7.675086758
+49021110702,2020,"Census Tract 1107.02, Iron County, Utah",Census Tract 1107.02,Iron County,Utah,7.2108043
+49003960601,2020,"Census Tract 9606.01, Box Elder County, Utah",Census Tract 9606.01,Box Elder County,Utah,14.66421342
+49035112608,2020,"Census Tract 1126.08, Salt Lake County, Utah",Census Tract 1126.08,Salt Lake County,Utah,18.35315092
+49015976300,2020,"Census Tract 9763, Emery County, Utah",Census Tract 9763,Emery County,Utah,7.709907487
+49015976200,2020,"Census Tract 9762, Emery County, Utah",Census Tract 9762,Emery County,Utah,5.423339654
+49035113011,2020,"Census Tract 1130.11, Salt Lake County, Utah",Census Tract 1130.11,Salt Lake County,Utah,18.72302027
+49035113512,2020,"Census Tract 1135.12, Salt Lake County, Utah",Census Tract 1135.12,Salt Lake County,Utah,15.29343557
+49035113513,2020,"Census Tract 1135.13, Salt Lake County, Utah",Census Tract 1135.13,Salt Lake County,Utah,16.51691042
+49035113514,2020,"Census Tract 1135.14, Salt Lake County, Utah",Census Tract 1135.14,Salt Lake County,Utah,17.12864784
+49035113515,2020,"Census Tract 1135.15, Salt Lake County, Utah",Census Tract 1135.15,Salt Lake County,Utah,18.53935348
+49035112002,2020,"Census Tract 1120.02, Salt Lake County, Utah",Census Tract 1120.02,Salt Lake County,Utah,16.06184848
+49031960100,2020,"Census Tract 9601, Piute County, Utah",Census Tract 9601,Piute County,Utah,7.105421089
+49057210204,2020,"Census Tract 2102.04, Weber County, Utah",Census Tract 2102.04,Weber County,Utah,10.97875372
+49057210303,2020,"Census Tract 2103.03, Weber County, Utah",Census Tract 2103.03,Weber County,Utah,8.658372766
+49057210304,2020,"Census Tract 2103.04, Weber County, Utah",Census Tract 2103.04,Weber County,Utah,14.69263509
+49035113013,2020,"Census Tract 1130.13, Salt Lake County, Utah",Census Tract 1130.13,Salt Lake County,Utah,14.03347394
+49035113520,2020,"Census Tract 1135.20, Salt Lake County, Utah",Census Tract 1135.20,Salt Lake County,Utah,16.43550524
+49035112805,2020,"Census Tract 1128.05, Salt Lake County, Utah",Census Tract 1128.05,Salt Lake County,Utah,17.5585535
+49021110400,2020,"Census Tract 1104, Iron County, Utah",Census Tract 1104,Iron County,Utah,20.41220592
+49021110100,2020,"Census Tract 1101, Iron County, Utah",Census Tract 1101,Iron County,Utah,6.64836594
+49021110300,2020,"Census Tract 1103, Iron County, Utah",Census Tract 1103,Iron County,Utah,3.446923974
+49035112804,2020,"Census Tract 1128.04, Salt Lake County, Utah",Census Tract 1128.04,Salt Lake County,Utah,18.92655418
+49037978200,2020,"Census Tract 9782, San Juan County, Utah",Census Tract 9782,San Juan County,Utah,4.034457533
+49037942100,2020,"Census Tract 9421, San Juan County, Utah",Census Tract 9421,San Juan County,Utah,2.546519871
+49037978100,2020,"Census Tract 9781, San Juan County, Utah",Census Tract 9781,San Juan County,Utah,3.392084262
+49037942000,2020,"Census Tract 9420, San Juan County, Utah",Census Tract 9420,San Juan County,Utah,5.430466811
+49035112610,2020,"Census Tract 1126.10, Salt Lake County, Utah",Census Tract 1126.10,Salt Lake County,Utah,18.49515549
+49035113521,2020,"Census Tract 1135.21, Salt Lake County, Utah",Census Tract 1135.21,Salt Lake County,Utah,17.67592082
+49005000502,2020,"Census Tract 5.02, Cache County, Utah",Census Tract 5.02,Cache County,Utah,19.7994313
+49005000501,2020,"Census Tract 5.01, Cache County, Utah",Census Tract 5.01,Cache County,Utah,18.40890157
+49005001001,2020,"Census Tract 10.01, Cache County, Utah",Census Tract 10.01,Cache County,Utah,14.42498604
+49035113522,2020,"Census Tract 1135.22, Salt Lake County, Utah",Census Tract 1135.22,Salt Lake County,Utah,17.05571236
+49035113523,2020,"Census Tract 1135.23, Salt Lake County, Utah",Census Tract 1135.23,Salt Lake County,Utah,17.03875145
+49035112612,2020,"Census Tract 1126.12, Salt Lake County, Utah",Census Tract 1126.12,Salt Lake County,Utah,19.72816561
+49035112613,2020,"Census Tract 1126.13, Salt Lake County, Utah",Census Tract 1126.13,Salt Lake County,Utah,17.87437302
+49057210511,2020,"Census Tract 2105.11, Weber County, Utah",Census Tract 2105.11,Weber County,Utah,18.69515733
+49057201302,2020,"Census Tract 2013.02, Weber County, Utah",Census Tract 2013.02,Weber County,Utah,15.81897896
+49057210404,2020,"Census Tract 2104.04, Weber County, Utah",Census Tract 2104.04,Weber County,Utah,11.67977412
+49035113017,2020,"Census Tract 1130.17, Salt Lake County, Utah",Census Tract 1130.17,Salt Lake County,Utah,16.02002437
+49011126406,2020,"Census Tract 1264.06, Davis County, Utah",Census Tract 1264.06,Davis County,Utah,15.8198279
+49011126405,2020,"Census Tract 1264.05, Davis County, Utah",Census Tract 1264.05,Davis County,Utah,13.5786202
+49017000400,2020,"Census Tract 4, Garfield County, Utah",Census Tract 4,Garfield County,Utah,3.473570364
+49011125908,2020,"Census Tract 1259.08, Davis County, Utah",Census Tract 1259.08,Davis County,Utah,12.17879017
+49011125701,2020,"Census Tract 1257.01, Davis County, Utah",Census Tract 1257.01,Davis County,Utah,17.51586093
+49011125702,2020,"Census Tract 1257.02, Davis County, Utah",Census Tract 1257.02,Davis County,Utah,18.74670582
+49011126002,2020,"Census Tract 1260.02, Davis County, Utah",Census Tract 1260.02,Davis County,Utah,12.67824192
+49011125807,2020,"Census Tract 1258.07, Davis County, Utah",Census Tract 1258.07,Davis County,Utah,14.96794931
+49011127100,2020,"Census Tract 1271, Davis County, Utah",Census Tract 1271,Davis County,Utah,14.13026469
+49011126001,2020,"Census Tract 1260.01, Davis County, Utah",Census Tract 1260.01,Davis County,Utah,16.80575951
+49035112905,2020,"Census Tract 1129.05, Salt Lake County, Utah",Census Tract 1129.05,Salt Lake County,Utah,16.05574677
+49035112904,2020,"Census Tract 1129.04, Salt Lake County, Utah",Census Tract 1129.04,Salt Lake County,Utah,16.05574677
+49011125907,2020,"Census Tract 1259.07, Davis County, Utah",Census Tract 1259.07,Davis County,Utah,12.27779402
+49035113108,2020,"Census Tract 1131.08, Salt Lake County, Utah",Census Tract 1131.08,Salt Lake County,Utah,15.72807854
+49035114800,2020,"Census Tract 1148, Salt Lake County, Utah",Census Tract 1148,Salt Lake County,Utah,7.932885636
+49035102702,2020,"Census Tract 1027.02, Salt Lake County, Utah",Census Tract 1027.02,Salt Lake County,Utah,24.04346439
+49035101102,2020,"Census Tract 1011.02, Salt Lake County, Utah",Census Tract 1011.02,Salt Lake County,Utah,20.60868351
+49035111801,2020,"Census Tract 1118.01, Salt Lake County, Utah",Census Tract 1118.01,Salt Lake County,Utah,16.82277913
+49035113526,2020,"Census Tract 1135.26, Salt Lake County, Utah",Census Tract 1135.26,Salt Lake County,Utah,14.1540094
+49035113527,2020,"Census Tract 1135.27, Salt Lake County, Utah",Census Tract 1135.27,Salt Lake County,Utah,15.07274208
+49035101101,2020,"Census Tract 1011.01, Salt Lake County, Utah",Census Tract 1011.01,Salt Lake County,Utah,17.8608588
+49035111802,2020,"Census Tract 1118.02, Salt Lake County, Utah",Census Tract 1118.02,Salt Lake County,Utah,17.12864784
+49035110402,2020,"Census Tract 1104.02, Salt Lake County, Utah",Census Tract 1104.02,Salt Lake County,Utah,14.85579308
+49035111904,2020,"Census Tract 1119.04, Salt Lake County, Utah",Census Tract 1119.04,Salt Lake County,Utah,16.51691042
+49035112404,2020,"Census Tract 1124.04, Salt Lake County, Utah",Census Tract 1124.04,Salt Lake County,Utah,22.68739087
+49043964203,2020,"Census Tract 9642.03, Summit County, Utah",Census Tract 9642.03,Summit County,Utah,2.994849496
+49043964201,2020,"Census Tract 9642.01, Summit County, Utah",Census Tract 9642.01,Summit County,Utah,10.99347621
+49043964202,2020,"Census Tract 9642.02, Summit County, Utah",Census Tract 9642.02,Summit County,Utah,6.11974344
+49043964101,2020,"Census Tract 9641.01, Summit County, Utah",Census Tract 9641.01,Summit County,Utah,8.414260884
+49043964308,2020,"Census Tract 9643.08, Summit County, Utah",Census Tract 9643.08,Summit County,Utah,11.11954695
+49043964304,2020,"Census Tract 9643.04, Summit County, Utah",Census Tract 9643.04,Summit County,Utah,8.975555218
+49043964306,2020,"Census Tract 9643.06, Summit County, Utah",Census Tract 9643.06,Summit County,Utah,9.086602547
+49043964303,2020,"Census Tract 9643.03, Summit County, Utah",Census Tract 9643.03,Summit County,Utah,7.659854327
+49043964307,2020,"Census Tract 9643.07, Summit County, Utah",Census Tract 9643.07,Summit County,Utah,11.7581281
+49035100307,2020,"Census Tract 1003.07, Salt Lake County, Utah",Census Tract 1003.07,Salt Lake County,Utah,18.31882959
+49035112920,2020,"Census Tract 1129.20, Salt Lake County, Utah",Census Tract 1129.20,Salt Lake County,Utah,21.129312
+49035112823,2020,"Census Tract 1128.23, Salt Lake County, Utah",Census Tract 1128.23,Salt Lake County,Utah,19.82802579
+49035102701,2020,"Census Tract 1027.01, Salt Lake County, Utah",Census Tract 1027.01,Salt Lake County,Utah,20.60868351
+49035112921,2020,"Census Tract 1129.21, Salt Lake County, Utah",Census Tract 1129.21,Salt Lake County,Utah,18.34942556
+49035113310,2020,"Census Tract 1133.10, Salt Lake County, Utah",Census Tract 1133.10,Salt Lake County,Utah,17.77928867
+49035113537,2020,"Census Tract 1135.37, Salt Lake County, Utah",Census Tract 1135.37,Salt Lake County,Utah,16.12540123
+49035112822,2020,"Census Tract 1128.22, Salt Lake County, Utah",Census Tract 1128.22,Salt Lake County,Utah,19.66250515
+49035113539,2020,"Census Tract 1135.39, Salt Lake County, Utah",Census Tract 1135.39,Salt Lake County,Utah,14.8849852
+49035111701,2020,"Census Tract 1117.01, Salt Lake County, Utah",Census Tract 1117.01,Salt Lake County,Utah,17.12864784
+49035111903,2020,"Census Tract 1119.03, Salt Lake County, Utah",Census Tract 1119.03,Salt Lake County,Utah,15.29343557
+49035111905,2020,"Census Tract 1119.05, Salt Lake County, Utah",Census Tract 1119.05,Salt Lake County,Utah,19.57559753
+49035113309,2020,"Census Tract 1133.09, Salt Lake County, Utah",Census Tract 1133.09,Salt Lake County,Utah,16.12540123
+49015976500,2020,"Census Tract 9765, Emery County, Utah",Census Tract 9765,Emery County,Utah,4.341733991
+49053270301,2020,"Census Tract 2703.01, Washington County, Utah",Census Tract 2703.01,Washington County,Utah,6.688834264
+49053271703,2020,"Census Tract 2717.03, Washington County, Utah",Census Tract 2717.03,Washington County,Utah,12.01779567
+49029970101,2020,"Census Tract 9701.01, Morgan County, Utah",Census Tract 9701.01,Morgan County,Utah,4.946357587
+49029970102,2020,"Census Tract 9701.02, Morgan County, Utah",Census Tract 9701.02,Morgan County,Utah,10.74143197
+49049010118,2020,"Census Tract 101.18, Utah County, Utah",Census Tract 101.18,Utah County,Utah,12.87496398
+49049010125,2020,"Census Tract 101.25, Utah County, Utah",Census Tract 101.25,Utah County,Utah,10.14999885
+49049003404,2020,"Census Tract 34.04, Utah County, Utah",Census Tract 34.04,Utah County,Utah,12.43794855
+49049001404,2020,"Census Tract 14.04, Utah County, Utah",Census Tract 14.04,Utah County,Utah,22.54079079
+49049010225,2020,"Census Tract 102.25, Utah County, Utah",Census Tract 102.25,Utah County,Utah,15.6278021
+49049002213,2020,"Census Tract 22.13, Utah County, Utah",Census Tract 22.13,Utah County,Utah,12.12155004
+49049010131,2020,"Census Tract 101.31, Utah County, Utah",Census Tract 101.31,Utah County,Utah,13.69550486
+49049000208,2020,"Census Tract 2.08, Utah County, Utah",Census Tract 2.08,Utah County,Utah,16.26307861
+49035112505,2020,"Census Tract 1125.05, Salt Lake County, Utah",Census Tract 1125.05,Salt Lake County,Utah,20.71457407
+49035111601,2020,"Census Tract 1116.01, Salt Lake County, Utah",Census Tract 1116.01,Salt Lake County,Utah,19.77951001
+49035113540,2020,"Census Tract 1135.40, Salt Lake County, Utah",Census Tract 1135.40,Salt Lake County,Utah,16.05574721
+49035114303,2020,"Census Tract 1143.03, Salt Lake County, Utah",Census Tract 1143.03,Salt Lake County,Utah,15.85338502
+49035113109,2020,"Census Tract 1131.09, Salt Lake County, Utah",Census Tract 1131.09,Salt Lake County,Utah,14.96903851
+49035114602,2020,"Census Tract 1146.02, Salt Lake County, Utah",Census Tract 1146.02,Salt Lake County,Utah,15.59185177
+49035113312,2020,"Census Tract 1133.12, Salt Lake County, Utah",Census Tract 1133.12,Salt Lake County,Utah,18.35212269
+49035113112,2020,"Census Tract 1131.12, Salt Lake County, Utah",Census Tract 1131.12,Salt Lake County,Utah,10.75334434
+49035112504,2020,"Census Tract 1125.04, Salt Lake County, Utah",Census Tract 1125.04,Salt Lake County,Utah,22.19418587
+49035112829,2020,"Census Tract 1128.29, Salt Lake County, Utah",Census Tract 1128.29,Salt Lake County,Utah,20.0669182
+49035113113,2020,"Census Tract 1131.13, Salt Lake County, Utah",Census Tract 1131.13,Salt Lake County,Utah,14.67933898
+49035113023,2020,"Census Tract 1130.23, Salt Lake County, Utah",Census Tract 1130.23,Salt Lake County,Utah,14.96903886
+49035113114,2020,"Census Tract 1131.14, Salt Lake County, Utah",Census Tract 1131.14,Salt Lake County,Utah,13.89496026
+49035113111,2020,"Census Tract 1131.11, Salt Lake County, Utah",Census Tract 1131.11,Salt Lake County,Utah,14.9690391
+49035113110,2020,"Census Tract 1131.10, Salt Lake County, Utah",Census Tract 1131.10,Salt Lake County,Utah,13.16203794
+49035112828,2020,"Census Tract 1128.28, Salt Lake County, Utah",Census Tract 1128.28,Salt Lake County,Utah,15.76686451
+49035111104,2020,"Census Tract 1111.04, Salt Lake County, Utah",Census Tract 1111.04,Salt Lake County,Utah,19.97476782
+49035113314,2020,"Census Tract 1133.14, Salt Lake County, Utah",Census Tract 1133.14,Salt Lake County,Utah,17.12864784
+49035113541,2020,"Census Tract 1135.41, Salt Lake County, Utah",Census Tract 1135.41,Salt Lake County,Utah,15.14014047
+49021110502,2020,"Census Tract 1105.02, Iron County, Utah",Census Tract 1105.02,Iron County,Utah,8.858935091
+49021110703,2020,"Census Tract 1107.03, Iron County, Utah",Census Tract 1107.03,Iron County,Utah,16.50872639
+49021110704,2020,"Census Tract 1107.04, Iron County, Utah",Census Tract 1107.04,Iron County,Utah,13.0307137
+49021110501,2020,"Census Tract 1105.01, Iron County, Utah",Census Tract 1105.01,Iron County,Utah,19.64639856
+49021110202,2020,"Census Tract 1102.02, Iron County, Utah",Census Tract 1102.02,Iron County,Utah,3.600832463
+49021110602,2020,"Census Tract 1106.02, Iron County, Utah",Census Tract 1106.02,Iron County,Utah,5.818045945
+49021110201,2020,"Census Tract 1102.01, Iron County, Utah",Census Tract 1102.01,Iron County,Utah,15.27120885
+49021110601,2020,"Census Tract 1106.01, Iron County, Utah",Census Tract 1106.01,Iron County,Utah,18.91130819
+49005000301,2020,"Census Tract 3.01, Cache County, Utah",Census Tract 3.01,Cache County,Utah,13.47103143
+49005000302,2020,"Census Tract 3.02, Cache County, Utah",Census Tract 3.02,Cache County,Utah,11.79417541
+49011125414,2020,"Census Tract 1254.14, Davis County, Utah",Census Tract 1254.14,Davis County,Utah,14.91215313
+49003960301,2020,"Census Tract 9603.01, Box Elder County, Utah",Census Tract 9603.01,Box Elder County,Utah,14.64128276
+49003960302,2020,"Census Tract 9603.02, Box Elder County, Utah",Census Tract 9603.02,Box Elder County,Utah,15.94949356
+49045130707,2020,"Census Tract 1307.07, Tooele County, Utah",Census Tract 1307.07,Tooele County,Utah,6.406712805
+49045130708,2020,"Census Tract 1307.08, Tooele County, Utah",Census Tract 1307.08,Tooele County,Utah,7.725159447
+49045131102,2020,"Census Tract 1311.02, Tooele County, Utah",Census Tract 1311.02,Tooele County,Utah,14.14383677
+49045131003,2020,"Census Tract 1310.03, Tooele County, Utah",Census Tract 1310.03,Tooele County,Utah,15.11893844
+49045131101,2020,"Census Tract 1311.01, Tooele County, Utah",Census Tract 1311.01,Tooele County,Utah,12.42996533
+49045131004,2020,"Census Tract 1310.04, Tooele County, Utah",Census Tract 1310.04,Tooele County,Utah,12.50013466
+49045130704,2020,"Census Tract 1307.04, Tooele County, Utah",Census Tract 1307.04,Tooele County,Utah,15.1195688
+49045130706,2020,"Census Tract 1307.06, Tooele County, Utah",Census Tract 1307.06,Tooele County,Utah,13.35911611
+49045131005,2020,"Census Tract 1310.05, Tooele County, Utah",Census Tract 1310.05,Tooele County,Utah,15.34235685
+49045130705,2020,"Census Tract 1307.05, Tooele County, Utah",Census Tract 1307.05,Tooele County,Utah,11.82342047
+49049003301,2020,"Census Tract 33.01, Utah County, Utah",Census Tract 33.01,Utah County,Utah,16.19652319
+49049002212,2020,"Census Tract 22.12, Utah County, Utah",Census Tract 22.12,Utah County,Utah,13.83608903
+49049000510,2020,"Census Tract 5.10, Utah County, Utah",Census Tract 5.10,Utah County,Utah,18.29596344
+49049010307,2020,"Census Tract 103.07, Utah County, Utah",Census Tract 103.07,Utah County,Utah,15.90408324
+49049010114,2020,"Census Tract 101.14, Utah County, Utah",Census Tract 101.14,Utah County,Utah,3.711828186
+49049010130,2020,"Census Tract 101.30, Utah County, Utah",Census Tract 101.30,Utah County,Utah,11.16785609
+49049010128,2020,"Census Tract 101.28, Utah County, Utah",Census Tract 101.28,Utah County,Utah,14.49762185
+49049002211,2020,"Census Tract 22.11, Utah County, Utah",Census Tract 22.11,Utah County,Utah,19.07297737
+49049010119,2020,"Census Tract 101.19, Utah County, Utah",Census Tract 101.19,Utah County,Utah,7.350057065
+49049000803,2020,"Census Tract 8.03, Utah County, Utah",Census Tract 8.03,Utah County,Utah,22.54079079
+49049000804,2020,"Census Tract 8.04, Utah County, Utah",Census Tract 8.04,Utah County,Utah,20.80688408
+49049003405,2020,"Census Tract 34.05, Utah County, Utah",Census Tract 34.05,Utah County,Utah,14.27204832
+49049980300,2020,"Census Tract 9803, Utah County, Utah",Census Tract 9803,Utah County,Utah,17.36024748
+49049980500,2020,"Census Tract 9805, Utah County, Utah",Census Tract 9805,Utah County,Utah,17.1009073
+49049010221,2020,"Census Tract 102.21, Utah County, Utah",Census Tract 102.21,Utah County,Utah,13.38974618
+49049010222,2020,"Census Tract 102.22, Utah County, Utah",Census Tract 102.22,Utah County,Utah,12.96437203
+49049010129,2020,"Census Tract 101.29, Utah County, Utah",Census Tract 101.29,Utah County,Utah,11.66824576
+49049010122,2020,"Census Tract 101.22, Utah County, Utah",Census Tract 101.22,Utah County,Utah,11.6628099
+49049010127,2020,"Census Tract 101.27, Utah County, Utah",Census Tract 101.27,Utah County,Utah,10.33695412
+49049010126,2020,"Census Tract 101.26, Utah County, Utah",Census Tract 101.26,Utah County,Utah,11.35593217
+49049010124,2020,"Census Tract 101.24, Utah County, Utah",Census Tract 101.24,Utah County,Utah,10.87724581
+49049010308,2020,"Census Tract 103.08, Utah County, Utah",Census Tract 103.08,Utah County,Utah,12.78348439
+49049002002,2020,"Census Tract 20.02, Utah County, Utah",Census Tract 20.02,Utah County,Utah,19.90809765
+49049002001,2020,"Census Tract 20.01, Utah County, Utah",Census Tract 20.01,Utah County,Utah,18.37670525
+49019000302,2020,"Census Tract 3.02, Grand County, Utah",Census Tract 3.02,Grand County,Utah,3.522597157
+49019000301,2020,"Census Tract 3.01, Grand County, Utah",Census Tract 3.01,Grand County,Utah,3.678677435
+49051940501,2020,"Census Tract 9405.01, Wasatch County, Utah",Census Tract 9405.01,Wasatch County,Utah,5.661448181
+49051960500,2020,"Census Tract 9605, Wasatch County, Utah",Census Tract 9605,Wasatch County,Utah,6.748743311
+49051960401,2020,"Census Tract 9604.01, Wasatch County, Utah",Census Tract 9604.01,Wasatch County,Utah,12.71901507
+49051960204,2020,"Census Tract 9602.04, Wasatch County, Utah",Census Tract 9602.04,Wasatch County,Utah,12.8307999
+49051980100,2020,"Census Tract 9801, Wasatch County, Utah",Census Tract 9801,Wasatch County,Utah,15.8702101
+49051960201,2020,"Census Tract 9602.01, Wasatch County, Utah",Census Tract 9602.01,Wasatch County,Utah,13.62007882
+49051960402,2020,"Census Tract 9604.02, Wasatch County, Utah",Census Tract 9604.02,Wasatch County,Utah,11.62915141
+49051960203,2020,"Census Tract 9602.03, Wasatch County, Utah",Census Tract 9602.03,Wasatch County,Utah,6.851586232
+49051960202,2020,"Census Tract 9602.02, Wasatch County, Utah",Census Tract 9602.02,Wasatch County,Utah,10.28060024
+49035110105,2020,"Census Tract 1101.05, Salt Lake County, Utah",Census Tract 1101.05,Salt Lake County,Utah,14.18254189
+49005000602,2020,"Census Tract 6.02, Cache County, Utah",Census Tract 6.02,Cache County,Utah,19.32617359
+49005000601,2020,"Census Tract 6.01, Cache County, Utah",Census Tract 6.01,Cache County,Utah,16.71469055
+49013940501,2020,"Census Tract 9405.01, Duchesne County, Utah",Census Tract 9405.01,Duchesne County,Utah,12.48604599
+49013940502,2020,"Census Tract 9405.02, Duchesne County, Utah",Census Tract 9405.02,Duchesne County,Utah,9.682898657
+49035115107,2020,"Census Tract 1151.07, Salt Lake County, Utah",Census Tract 1151.07,Salt Lake County,Utah,5.90205284
+49035112831,2020,"Census Tract 1128.31, Salt Lake County, Utah",Census Tract 1128.31,Salt Lake County,Utah,14.61628994
+49035113544,2020,"Census Tract 1135.44, Salt Lake County, Utah",Census Tract 1135.44,Salt Lake County,Utah,13.64457006
+49035113025,2020,"Census Tract 1130.25, Salt Lake County, Utah",Census Tract 1130.25,Salt Lake County,Utah,15.59274852
+49035113024,2020,"Census Tract 1130.24, Salt Lake County, Utah",Census Tract 1130.24,Salt Lake County,Utah,17.00418419
+49053270101,2020,"Census Tract 2701.01, Washington County, Utah",Census Tract 2701.01,Washington County,Utah,5.717207771
+49053271101,2020,"Census Tract 2711.01, Washington County, Utah",Census Tract 2711.01,Washington County,Utah,16.24774178
+49053270102,2020,"Census Tract 2701.02, Washington County, Utah",Census Tract 2701.02,Washington County,Utah,4.460722147
+49053270302,2020,"Census Tract 2703.02, Washington County, Utah",Census Tract 2703.02,Washington County,Utah,3.248178862
+49053270702,2020,"Census Tract 2707.02, Washington County, Utah",Census Tract 2707.02,Washington County,Utah,15.01373601
+49053270701,2020,"Census Tract 2707.01, Washington County, Utah",Census Tract 2707.01,Washington County,Utah,15.90372455
+49053271502,2020,"Census Tract 2715.02, Washington County, Utah",Census Tract 2715.02,Washington County,Utah,9.272137747
+49053270601,2020,"Census Tract 2706.01, Washington County, Utah",Census Tract 2706.01,Washington County,Utah,14.88859355
+49053270804,2020,"Census Tract 2708.04, Washington County, Utah",Census Tract 2708.04,Washington County,Utah,9.93271909
+49035113311,2020,"Census Tract 1133.11, Salt Lake County, Utah",Census Tract 1133.11,Salt Lake County,Utah,17.6529942
+49035110106,2020,"Census Tract 1101.06, Salt Lake County, Utah",Census Tract 1101.06,Salt Lake County,Utah,10.30363747
+49035114601,2020,"Census Tract 1146.01, Salt Lake County, Utah",Census Tract 1146.01,Salt Lake County,Utah,16.48353992
+49035112826,2020,"Census Tract 1128.26, Salt Lake County, Utah",Census Tract 1128.26,Salt Lake County,Utah,12.69417344
+49035113313,2020,"Census Tract 1133.13, Salt Lake County, Utah",Census Tract 1133.13,Salt Lake County,Utah,15.905173
+49035113415,2020,"Census Tract 1134.15, Salt Lake County, Utah",Census Tract 1134.15,Salt Lake County,Utah,14.40805153
+49035113414,2020,"Census Tract 1134.14, Salt Lake County, Utah",Census Tract 1134.14,Salt Lake County,Utah,14.05804178
+49035111108,2020,"Census Tract 1111.08, Salt Lake County, Utah",Census Tract 1111.08,Salt Lake County,Utah,19.15111408
+49035101401,2020,"Census Tract 1014.01, Salt Lake County, Utah",Census Tract 1014.01,Salt Lake County,Utah,15.23430144
+49035114301,2020,"Census Tract 1143.01, Salt Lake County, Utah",Census Tract 1143.01,Salt Lake County,Utah,15.72807854
+49035112621,2020,"Census Tract 1126.21, Salt Lake County, Utah",Census Tract 1126.21,Salt Lake County,Utah,20.15971947
+49035102502,2020,"Census Tract 1025.02, Salt Lake County, Utah",Census Tract 1025.02,Salt Lake County,Utah,25.64636154
+49035102501,2020,"Census Tract 1025.01, Salt Lake County, Utah",Census Tract 1025.01,Salt Lake County,Utah,27.47824528
+49035113908,2020,"Census Tract 1139.08, Salt Lake County, Utah",Census Tract 1139.08,Salt Lake County,Utah,12.83081676
+49035115210,2020,"Census Tract 1152.10, Salt Lake County, Utah",Census Tract 1152.10,Salt Lake County,Utah,15.03293812
+49035115211,2020,"Census Tract 1152.11, Salt Lake County, Utah",Census Tract 1152.11,Salt Lake County,Utah,15.12365282
+49035113021,2020,"Census Tract 1130.21, Salt Lake County, Utah",Census Tract 1130.21,Salt Lake County,Utah,18.34942556
+49035113022,2020,"Census Tract 1130.22, Salt Lake County, Utah",Census Tract 1130.22,Salt Lake County,Utah,16.07261408
+49035101402,2020,"Census Tract 1014.02, Salt Lake County, Utah",Census Tract 1014.02,Salt Lake County,Utah,13.29750867
+49035113909,2020,"Census Tract 1139.09, Salt Lake County, Utah",Census Tract 1139.09,Salt Lake County,Utah,9.359629178
+49035111106,2020,"Census Tract 1111.06, Salt Lake County, Utah",Census Tract 1111.06,Salt Lake County,Utah,14.85579308
+49035111107,2020,"Census Tract 1111.07, Salt Lake County, Utah",Census Tract 1111.07,Salt Lake County,Utah,15.5310568
+49035111109,2020,"Census Tract 1111.09, Salt Lake County, Utah",Census Tract 1111.09,Salt Lake County,Utah,19.15111408
+49035112405,2020,"Census Tract 1124.05, Salt Lake County, Utah",Census Tract 1124.05,Salt Lake County,Utah,23.30389624
+49035112406,2020,"Census Tract 1124.06, Salt Lake County, Utah",Census Tract 1124.06,Salt Lake County,Utah,21.20777824
+49047968201,2020,"Census Tract 9682.01, Uintah County, Utah",Census Tract 9682.01,Uintah County,Utah,5.930024632
+49047968202,2020,"Census Tract 9682.02, Uintah County, Utah",Census Tract 9682.02,Uintah County,Utah,8.266925711
+49047968403,2020,"Census Tract 9684.03, Uintah County, Utah",Census Tract 9684.03,Uintah County,Utah,14.0174652
+49047968404,2020,"Census Tract 9684.04, Uintah County, Utah",Census Tract 9684.04,Uintah County,Utah,13.56321951
+49035112102,2020,"Census Tract 1121.02, Salt Lake County, Utah",Census Tract 1121.02,Salt Lake County,Utah,16.92473537
+49035114302,2020,"Census Tract 1143.02, Salt Lake County, Utah",Census Tract 1143.02,Salt Lake County,Utah,17.03875205
+49035111105,2020,"Census Tract 1111.05, Salt Lake County, Utah",Census Tract 1111.05,Salt Lake County,Utah,16.82277913
+49035113805,2020,"Census Tract 1138.05, Salt Lake County, Utah",Census Tract 1138.05,Salt Lake County,Utah,15.07274208
+49035980100,2020,"Census Tract 9801, Salt Lake County, Utah",Census Tract 9801,Salt Lake County,Utah,17.03875145
+49049010115,2020,"Census Tract 101.15, Utah County, Utah",Census Tract 101.15,Utah County,Utah,3.285460398
+49049000511,2020,"Census Tract 5.11, Utah County, Utah",Census Tract 5.11,Utah County,Utah,21.83526905
+49049002209,2020,"Census Tract 22.09, Utah County, Utah",Census Tract 22.09,Utah County,Utah,21.70533862
+49049010223,2020,"Census Tract 102.23, Utah County, Utah",Census Tract 102.23,Utah County,Utah,15.2466362
+49049010224,2020,"Census Tract 102.24, Utah County, Utah",Census Tract 102.24,Utah County,Utah,14.57916342
+49049980400,2020,"Census Tract 9804, Utah County, Utah",Census Tract 9804,Utah County,Utah,12.44659126
+49049002703,2020,"Census Tract 27.03, Utah County, Utah",Census Tract 27.03,Utah County,Utah,17.03427814
+49049010306,2020,"Census Tract 103.06, Utah County, Utah",Census Tract 103.06,Utah County,Utah,16.40149278
+49049002210,2020,"Census Tract 22.10, Utah County, Utah",Census Tract 22.10,Utah County,Utah,23.40774504
+49049010123,2020,"Census Tract 101.23, Utah County, Utah",Census Tract 101.23,Utah County,Utah,11.734104
+49049010121,2020,"Census Tract 101.21, Utah County, Utah",Census Tract 101.21,Utah County,Utah,11.42340483
+49049010116,2020,"Census Tract 101.16, Utah County, Utah",Census Tract 101.16,Utah County,Utah,9.36190522
+49049010117,2020,"Census Tract 101.17, Utah County, Utah",Census Tract 101.17,Utah County,Utah,8.067122454
+49049010226,2020,"Census Tract 102.26, Utah County, Utah",Census Tract 102.26,Utah County,Utah,16.64046776
+49049001403,2020,"Census Tract 14.03, Utah County, Utah",Census Tract 14.03,Utah County,Utah,22.54079079
+49049002208,2020,"Census Tract 22.08, Utah County, Utah",Census Tract 22.08,Utah County,Utah,14.08719968
+49049000207,2020,"Census Tract 2.07, Utah County, Utah",Census Tract 2.07,Utah County,Utah,19.51569434
+49049003302,2020,"Census Tract 33.02, Utah County, Utah",Census Tract 33.02,Utah County,Utah,18.89997522
+49049010120,2020,"Census Tract 101.20, Utah County, Utah",Census Tract 101.20,Utah County,Utah,6.999280434
+49049980600,2020,"Census Tract 9806, Utah County, Utah",Census Tract 9806,Utah County,Utah,7.522145065
+49039972402,2020,"Census Tract 9724.02, Sanpete County, Utah",Census Tract 9724.02,Sanpete County,Utah,5.775741738
+49039972401,2020,"Census Tract 9724.01, Sanpete County, Utah",Census Tract 9724.01,Sanpete County,Utah,8.825390922
+49039972101,2020,"Census Tract 9721.01, Sanpete County, Utah",Census Tract 9721.01,Sanpete County,Utah,5.605812321
+49039972102,2020,"Census Tract 9721.02, Sanpete County, Utah",Census Tract 9721.02,Sanpete County,Utah,9.327439002
+49035113804,2020,"Census Tract 1138.04, Salt Lake County, Utah",Census Tract 1138.04,Salt Lake County,Utah,15.72807854
+49035114304,2020,"Census Tract 1143.04, Salt Lake County, Utah",Census Tract 1143.04,Salt Lake County,Utah,17.03875205
+49035112824,2020,"Census Tract 1128.24, Salt Lake County, Utah",Census Tract 1128.24,Salt Lake County,Utah,18.35624777
+49035112620,2020,"Census Tract 1126.20, Salt Lake County, Utah",Census Tract 1126.20,Salt Lake County,Utah,17.75534977
+49035112825,2020,"Census Tract 1128.25, Salt Lake County, Utah",Census Tract 1128.25,Salt Lake County,Utah,18.5418209
+49035112101,2020,"Census Tract 1121.01, Salt Lake County, Utah",Census Tract 1121.01,Salt Lake County,Utah,18.14821021
+49035111602,2020,"Census Tract 1116.02, Salt Lake County, Utah",Census Tract 1116.02,Salt Lake County,Utah,18.59681766
+49035112827,2020,"Census Tract 1128.27, Salt Lake County, Utah",Census Tract 1128.27,Salt Lake County,Utah,14.87556202
+49011126107,2020,"Census Tract 1261.07, Davis County, Utah",Census Tract 1261.07,Davis County,Utah,10.77232249
+49011126206,2020,"Census Tract 1262.06, Davis County, Utah",Census Tract 1262.06,Davis County,Utah,9.939835824
+49011980000,2020,"Census Tract 9800, Davis County, Utah",Census Tract 9800,Davis County,Utah,14.69576376
+49011126108,2020,"Census Tract 1261.08, Davis County, Utah",Census Tract 1261.08,Davis County,Utah,8.793533245
+49011125411,2020,"Census Tract 1254.11, Davis County, Utah",Census Tract 1254.11,Davis County,Utah,6.027520547
+49011125408,2020,"Census Tract 1254.08, Davis County, Utah",Census Tract 1254.08,Davis County,Utah,6.358379464
+49011127005,2020,"Census Tract 1270.05, Davis County, Utah",Census Tract 1270.05,Davis County,Utah,17.54987717
+49011125415,2020,"Census Tract 1254.15, Davis County, Utah",Census Tract 1254.15,Davis County,Utah,13.25524703
+49011125201,2020,"Census Tract 1252.01, Davis County, Utah",Census Tract 1252.01,Davis County,Utah,17.75256269
+49011125413,2020,"Census Tract 1254.13, Davis County, Utah",Census Tract 1254.13,Davis County,Utah,12.76394609
+49011126205,2020,"Census Tract 1262.05, Davis County, Utah",Census Tract 1262.05,Davis County,Utah,15.34944355
+49011125809,2020,"Census Tract 1258.09, Davis County, Utah",Census Tract 1258.09,Davis County,Utah,17.04246008
+49011125810,2020,"Census Tract 1258.10, Davis County, Utah",Census Tract 1258.10,Davis County,Utah,15.62225574
+49011126106,2020,"Census Tract 1261.06, Davis County, Utah",Census Tract 1261.06,Davis County,Utah,14.69628983
+49011125307,2020,"Census Tract 1253.07, Davis County, Utah",Census Tract 1253.07,Davis County,Utah,10.88162511
+49011125306,2020,"Census Tract 1253.06, Davis County, Utah",Census Tract 1253.06,Davis County,Utah,12.18890067
+49011125407,2020,"Census Tract 1254.07, Davis County, Utah",Census Tract 1254.07,Davis County,Utah,9.951078252
+49011125409,2020,"Census Tract 1254.09, Davis County, Utah",Census Tract 1254.09,Davis County,Utah,12.35143209
+49011127006,2020,"Census Tract 1270.06, Davis County, Utah",Census Tract 1270.06,Davis County,Utah,20.28267193
+49011125410,2020,"Census Tract 1254.10, Davis County, Utah",Census Tract 1254.10,Davis County,Utah,12.35143209
+49011125412,2020,"Census Tract 1254.12, Davis County, Utah",Census Tract 1254.12,Davis County,Utah,13.4919479
+49043964104,2020,"Census Tract 9641.04, Summit County, Utah",Census Tract 9641.04,Summit County,Utah,3.961699486
+49043964103,2020,"Census Tract 9641.03, Summit County, Utah",Census Tract 9641.03,Summit County,Utah,10.36319717
+49057210102,2020,"Census Tract 2101.02, Weber County, Utah",Census Tract 2101.02,Weber County,Utah,8.39589519
+49057200302,2020,"Census Tract 2003.02, Weber County, Utah",Census Tract 2003.02,Weber County,Utah,17.25197472
+49057210306,2020,"Census Tract 2103.06, Weber County, Utah",Census Tract 2103.06,Weber County,Utah,15.50201299
+49057210101,2020,"Census Tract 2101.01, Weber County, Utah",Census Tract 2101.01,Weber County,Utah,9.077193116
+49057210518,2020,"Census Tract 2105.18, Weber County, Utah",Census Tract 2105.18,Weber County,Utah,11.4688761
+49057210305,2020,"Census Tract 2103.05, Weber County, Utah",Census Tract 2103.05,Weber County,Utah,15.42042346
+49057210406,2020,"Census Tract 2104.06, Weber County, Utah",Census Tract 2104.06,Weber County,Utah,13.97354927
+49057210407,2020,"Census Tract 2104.07, Weber County, Utah",Census Tract 2104.07,Weber County,Utah,12.47446291
+49057210405,2020,"Census Tract 2104.05, Weber County, Utah",Census Tract 2104.05,Weber County,Utah,15.57251506
+49057210513,2020,"Census Tract 2105.13, Weber County, Utah",Census Tract 2105.13,Weber County,Utah,16.64537293
+49057210408,2020,"Census Tract 2104.08, Weber County, Utah",Census Tract 2104.08,Weber County,Utah,4.601420656
+49057210514,2020,"Census Tract 2105.14, Weber County, Utah",Census Tract 2105.14,Weber County,Utah,13.53175377
+49057210515,2020,"Census Tract 2105.15, Weber County, Utah",Census Tract 2105.15,Weber County,Utah,11.87978465
+49057210517,2020,"Census Tract 2105.17, Weber County, Utah",Census Tract 2105.17,Weber County,Utah,10.88667798
+49057210516,2020,"Census Tract 2105.16, Weber County, Utah",Census Tract 2105.16,Weber County,Utah,7.941190993
+49057200301,2020,"Census Tract 2003.01, Weber County, Utah",Census Tract 2003.01,Weber County,Utah,17.03589606
+49053270402,2020,"Census Tract 2704.02, Washington County, Utah",Census Tract 2704.02,Washington County,Utah,6.692390712
+49053270803,2020,"Census Tract 2708.03, Washington County, Utah",Census Tract 2708.03,Washington County,Utah,5.565171146
+49053271501,2020,"Census Tract 2715.01, Washington County, Utah",Census Tract 2715.01,Washington County,Utah,16.06513126
+49053270903,2020,"Census Tract 2709.03, Washington County, Utah",Census Tract 2709.03,Washington County,Utah,12.9766916
+49053270905,2020,"Census Tract 2709.05, Washington County, Utah",Census Tract 2709.05,Washington County,Utah,4.651995013
+49053270904,2020,"Census Tract 2709.04, Washington County, Utah",Census Tract 2709.04,Washington County,Utah,13.74649378
+49053270502,2020,"Census Tract 2705.02, Washington County, Utah",Census Tract 2705.02,Washington County,Utah,13.52716987
+49053270501,2020,"Census Tract 2705.01, Washington County, Utah",Census Tract 2705.01,Washington County,Utah,8.067920529
+49053270806,2020,"Census Tract 2708.06, Washington County, Utah",Census Tract 2708.06,Washington County,Utah,14.27157788
+49053270602,2020,"Census Tract 2706.02, Washington County, Utah",Census Tract 2706.02,Washington County,Utah,9.775376427
+49053271102,2020,"Census Tract 2711.02, Washington County, Utah",Census Tract 2711.02,Washington County,Utah,18.10212143
+49053271704,2020,"Census Tract 2717.04, Washington County, Utah",Census Tract 2717.04,Washington County,Utah,14.00146598
+49053270401,2020,"Census Tract 2704.01, Washington County, Utah",Census Tract 2704.01,Washington County,Utah,13.39323916
+49053270805,2020,"Census Tract 2708.05, Washington County, Utah",Census Tract 2708.05,Washington County,Utah,16.64587248
+49035113545,2020,"Census Tract 1135.45, Salt Lake County, Utah",Census Tract 1135.45,Salt Lake County,Utah,13.586266
+49035113543,2020,"Census Tract 1135.43, Salt Lake County, Utah",Census Tract 1135.43,Salt Lake County,Utah,15.94652402
+49035113542,2020,"Census Tract 1135.42, Salt Lake County, Utah",Census Tract 1135.42,Salt Lake County,Utah,15.72807854
+49035115108,2020,"Census Tract 1151.08, Salt Lake County, Utah",Census Tract 1151.08,Salt Lake County,Utah,9.756191907
+49035112830,2020,"Census Tract 1128.30, Salt Lake County, Utah",Census Tract 1128.30,Salt Lake County,Utah,15.94588173
+49035115109,2020,"Census Tract 1151.09, Salt Lake County, Utah",Census Tract 1151.09,Salt Lake County,Utah,8.953688526
+49049010132,2020,"Census Tract 101.32, Utah County, Utah",Census Tract 101.32,Utah County,Utah,10.43018585
+49049001802,2020,"Census Tract 18.02, Utah County, Utah",Census Tract 18.02,Utah County,Utah,
+49057201301,2020,"Census Tract 2013.01, Weber County, Utah",Census Tract 2013.01,Weber County,Utah,
+49049000801,2020,"Census Tract 8.01, Utah County, Utah",Census Tract 8.01,Utah County,Utah,
+49049001601,2020,"Census Tract 16.01, Utah County, Utah",Census Tract 16.01,Utah County,Utah,
+49049001801,2020,"Census Tract 18.01, Utah County, Utah",Census Tract 18.01,Utah County,Utah,
+49049000903,2020,"Census Tract 9.03, Utah County, Utah",Census Tract 9.03,Utah County,Utah,
+49049002400,2020,"Census Tract 24, Utah County, Utah",Census Tract 24,Utah County,Utah,
+49035104700,2020,"Census Tract 1047, Salt Lake County, Utah",Census Tract 1047,Salt Lake County,Utah,
+49035112615,2020,"Census Tract 1126.15, Salt Lake County, Utah",Census Tract 1126.15,Salt Lake County,Utah,
+49049980200,2020,"Census Tract 9802, Utah County, Utah",Census Tract 9802,Utah County,Utah,
