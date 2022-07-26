@@ -1,4 +1,3 @@
-Burden of disease dissertation for Population Health Sciences MPhil
 'Traffic-Related Air Pollution NO2 and Adult-Onset Asthma in the United States of America: A Burden of Disease Assessment'
 
 Aim: to estimate the number of incident adult asthma cases attributable to TRAP NO2 exposure across the U.S. in 2020
