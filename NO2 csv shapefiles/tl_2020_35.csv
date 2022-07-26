@@ -1,0 +1,613 @@
+﻿GEOID,YEAR,NAME,TRACT_NAME,COUNTY,STATE,NO2_mgm3
+35006941500,2020,"Census Tract 9415, Cibola County, New Mexico",Census Tract 9415,Cibola County,New Mexico,2.649325005
+35006974201,2020,"Census Tract 9742.01, Cibola County, New Mexico",Census Tract 9742.01,Cibola County,New Mexico,16.7699094
+35006945800,2020,"Census Tract 9458, Cibola County, New Mexico",Census Tract 9458,Cibola County,New Mexico,2.591725875
+35061970901,2020,"Census Tract 9709.01, Valencia County, New Mexico",Census Tract 9709.01,Valencia County,New Mexico,13.44349151
+35061970902,2020,"Census Tract 9709.02, Valencia County, New Mexico",Census Tract 9709.02,Valencia County,New Mexico,15.28706217
+35061971100,2020,"Census Tract 9711, Valencia County, New Mexico",Census Tract 9711,Valencia County,New Mexico,5.433494038
+35061940300,2020,"Census Tract 9403, Valencia County, New Mexico",Census Tract 9403,Valencia County,New Mexico,3.030266927
+35028000200,2020,"Census Tract 2, Los Alamos County, New Mexico",Census Tract 2,Los Alamos County,New Mexico,6.57901478
+35028000500,2020,"Census Tract 5, Los Alamos County, New Mexico",Census Tract 5,Los Alamos County,New Mexico,10.16645283
+35028000100,2020,"Census Tract 1, Los Alamos County, New Mexico",Census Tract 1,Los Alamos County,New Mexico,4.852921775
+35028000400,2020,"Census Tract 4, Los Alamos County, New Mexico",Census Tract 4,Los Alamos County,New Mexico,11.17022031
+35025000200,2020,"Census Tract 2, Lea County, New Mexico",Census Tract 2,Lea County,New Mexico,19.02749062
+35025000400,2020,"Census Tract 4, Lea County, New Mexico",Census Tract 4,Lea County,New Mexico,18.25310107
+35045000503,2020,"Census Tract 5.03, San Juan County, New Mexico",Census Tract 5.03,San Juan County,New Mexico,7.48508463
+35043940700,2020,"Census Tract 9407, Sandoval County, New Mexico",Census Tract 9407,Sandoval County,New Mexico,6.741225308
+35045000610,2020,"Census Tract 6.10, San Juan County, New Mexico",Census Tract 6.10,San Juan County,New Mexico,8.108285575
+35045000611,2020,"Census Tract 6.11, San Juan County, New Mexico",Census Tract 6.11,San Juan County,New Mexico,6.311308707
+35045000705,2020,"Census Tract 7.05, San Juan County, New Mexico",Census Tract 7.05,San Juan County,New Mexico,7.226615205
+35045000706,2020,"Census Tract 7.06, San Juan County, New Mexico",Census Tract 7.06,San Juan County,New Mexico,5.879253215
+35045942801,2020,"Census Tract 9428.01, San Juan County, New Mexico",Census Tract 9428.01,San Juan County,New Mexico,4.279869224
+35045942802,2020,"Census Tract 9428.02, San Juan County, New Mexico",Census Tract 9428.02,San Juan County,New Mexico,5.602584076
+35043010601,2020,"Census Tract 106.01, Sandoval County, New Mexico",Census Tract 106.01,Sandoval County,New Mexico,12.60531699
+35001004716,2020,"Census Tract 47.16, Bernalillo County, New Mexico",Census Tract 47.16,Bernalillo County,New Mexico,21.94574336
+35001003805,2020,"Census Tract 38.05, Bernalillo County, New Mexico",Census Tract 38.05,Bernalillo County,New Mexico,6.012057496
+35025001100,2020,"Census Tract 11, Lea County, New Mexico",Census Tract 11,Lea County,New Mexico,6.888722178
+35025000100,2020,"Census Tract 1, Lea County, New Mexico",Census Tract 1,Lea County,New Mexico,20.14186234
+35025000900,2020,"Census Tract 9, Lea County, New Mexico",Census Tract 9,Lea County,New Mexico,6.401482312
+35025000800,2020,"Census Tract 8, Lea County, New Mexico",Census Tract 8,Lea County,New Mexico,8.26767622
+35025000300,2020,"Census Tract 3, Lea County, New Mexico",Census Tract 3,Lea County,New Mexico,15.95528871
+35051962200,2020,"Census Tract 9622, Sierra County, New Mexico",Census Tract 9622,Sierra County,New Mexico,19.86507459
+35051962300,2020,"Census Tract 9623, Sierra County, New Mexico",Census Tract 9623,Sierra County,New Mexico,22.29921688
+35043940200,2020,"Census Tract 9402, Sandoval County, New Mexico",Census Tract 9402,Sandoval County,New Mexico,6.892659896
+35043010702,2020,"Census Tract 107.02, Sandoval County, New Mexico",Census Tract 107.02,Sandoval County,New Mexico,16.43091208
+35043010900,2020,"Census Tract 109, Sandoval County, New Mexico",Census Tract 109,Sandoval County,New Mexico,3.487603206
+35043940600,2020,"Census Tract 9406, Sandoval County, New Mexico",Census Tract 9406,Sandoval County,New Mexico,6.116764887
+35043010714,2020,"Census Tract 107.14, Sandoval County, New Mexico",Census Tract 107.14,Sandoval County,New Mexico,16.35607494
+35047957800,2020,"Census Tract 9578, San Miguel County, New Mexico",Census Tract 9578,San Miguel County,New Mexico,18.92020259
+35047957700,2020,"Census Tract 9577, San Miguel County, New Mexico",Census Tract 9577,San Miguel County,New Mexico,3.991091213
+35047957200,2020,"Census Tract 9572, San Miguel County, New Mexico",Census Tract 9572,San Miguel County,New Mexico,18.42100642
+35047957400,2020,"Census Tract 9574, San Miguel County, New Mexico",Census Tract 9574,San Miguel County,New Mexico,19.79369413
+35047957300,2020,"Census Tract 9573, San Miguel County, New Mexico",Census Tract 9573,San Miguel County,New Mexico,23.05061616
+35059950200,2020,"Census Tract 9502, Union County, New Mexico",Census Tract 9502,Union County,New Mexico,5.374733838
+35013001705,2020,"Census Tract 17.05, Doña Ana County, New Mexico",Census Tract 17.05,Doña Ana County,New Mexico,19.55570293
+35057963201,2020,"Census Tract 9632.01, Torrance County, New Mexico",Census Tract 9632.01,Torrance County,New Mexico,6.536866448
+35057963202,2020,"Census Tract 9632.02, Torrance County, New Mexico",Census Tract 9632.02,Torrance County,New Mexico,10.77848439
+35049000600,2020,"Census Tract 6, Santa Fe County, New Mexico",Census Tract 6,Santa Fe County,New Mexico,21.93837379
+35049010102,2020,"Census Tract 101.02, Santa Fe County, New Mexico",Census Tract 101.02,Santa Fe County,New Mexico,5.810115985
+35049010400,2020,"Census Tract 104, Santa Fe County, New Mexico",Census Tract 104,Santa Fe County,New Mexico,8.093572724
+35061970401,2020,"Census Tract 9704.01, Valencia County, New Mexico",Census Tract 9704.01,Valencia County,New Mexico,12.29024194
+35061970200,2020,"Census Tract 9702, Valencia County, New Mexico",Census Tract 9702,Valencia County,New Mexico,10.30221442
+35041000200,2020,"Census Tract 2, Roosevelt County, New Mexico",Census Tract 2,Roosevelt County,New Mexico,20.30014479
+35041000300,2020,"Census Tract 3, Roosevelt County, New Mexico",Census Tract 3,Roosevelt County,New Mexico,17.04108841
+35005000201,2020,"Census Tract 2.01, Chaves County, New Mexico",Census Tract 2.01,Chaves County,New Mexico,17.85491854
+35025000502,2020,"Census Tract 5.02, Lea County, New Mexico",Census Tract 5.02,Lea County,New Mexico,18.65060567
+35025000600,2020,"Census Tract 6, Lea County, New Mexico",Census Tract 6,Lea County,New Mexico,19.08357171
+35025001003,2020,"Census Tract 10.03, Lea County, New Mexico",Census Tract 10.03,Lea County,New Mexico,16.7917504
+35011960100,2020,"Census Tract 9601, De Baca County, New Mexico",Census Tract 9601,De Baca County,New Mexico,4.596267036
+35043010719,2020,"Census Tract 107.19, Sandoval County, New Mexico",Census Tract 107.19,Sandoval County,New Mexico,18.72103048
+35061970800,2020,"Census Tract 9708, Valencia County, New Mexico",Census Tract 9708,Valencia County,New Mexico,13.93403267
+35061970302,2020,"Census Tract 9703.02, Valencia County, New Mexico",Census Tract 9703.02,Valencia County,New Mexico,2.927086875
+35061970101,2020,"Census Tract 9701.01, Valencia County, New Mexico",Census Tract 9701.01,Valencia County,New Mexico,2.21335212
+35061971000,2020,"Census Tract 9710, Valencia County, New Mexico",Census Tract 9710,Valencia County,New Mexico,12.42614615
+35009000602,2020,"Census Tract 6.02, Curry County, New Mexico",Census Tract 6.02,Curry County,New Mexico,7.387037607
+35009000601,2020,"Census Tract 6.01, Curry County, New Mexico",Census Tract 6.01,Curry County,New Mexico,8.448747726
+35009000603,2020,"Census Tract 6.03, Curry County, New Mexico",Census Tract 6.03,Curry County,New Mexico,8.790827383
+35049000300,2020,"Census Tract 3, Santa Fe County, New Mexico",Census Tract 3,Santa Fe County,New Mexico,26.68180698
+35013000300,2020,"Census Tract 3, Doña Ana County, New Mexico",Census Tract 3,Doña Ana County,New Mexico,26.43246731
+35013000401,2020,"Census Tract 4.01, Doña Ana County, New Mexico",Census Tract 4.01,Doña Ana County,New Mexico,28.03443573
+35013000500,2020,"Census Tract 5, Doña Ana County, New Mexico",Census Tract 5,Doña Ana County,New Mexico,27.36694814
+35013000700,2020,"Census Tract 7, Doña Ana County, New Mexico",Census Tract 7,Doña Ana County,New Mexico,26.69710407
+35013000800,2020,"Census Tract 8, Doña Ana County, New Mexico",Census Tract 8,Doña Ana County,New Mexico,28.22826295
+35013001000,2020,"Census Tract 10, Doña Ana County, New Mexico",Census Tract 10,Doña Ana County,New Mexico,25.7556817
+35013001702,2020,"Census Tract 17.02, Doña Ana County, New Mexico",Census Tract 17.02,Doña Ana County,New Mexico,3.802940189
+35049000800,2020,"Census Tract 8, Santa Fe County, New Mexico",Census Tract 8,Santa Fe County,New Mexico,28.58112019
+35049940300,2020,"Census Tract 9403, Santa Fe County, New Mexico",Census Tract 9403,Santa Fe County,New Mexico,10.92815835
+35049000500,2020,"Census Tract 5, Santa Fe County, New Mexico",Census Tract 5,Santa Fe County,New Mexico,15.13448601
+35049010800,2020,"Census Tract 108, Santa Fe County, New Mexico",Census Tract 108,Santa Fe County,New Mexico,5.366039448
+35049001103,2020,"Census Tract 11.03, Santa Fe County, New Mexico",Census Tract 11.03,Santa Fe County,New Mexico,21.68591625
+35049010308,2020,"Census Tract 103.08, Santa Fe County, New Mexico",Census Tract 103.08,Santa Fe County,New Mexico,10.81683252
+35049001202,2020,"Census Tract 12.02, Santa Fe County, New Mexico",Census Tract 12.02,Santa Fe County,New Mexico,25.26186397
+35049001107,2020,"Census Tract 11.07, Santa Fe County, New Mexico",Census Tract 11.07,Santa Fe County,New Mexico,22.83742558
+35049001105,2020,"Census Tract 11.05, Santa Fe County, New Mexico",Census Tract 11.05,Santa Fe County,New Mexico,30.3875769
+35049001106,2020,"Census Tract 11.06, Santa Fe County, New Mexico",Census Tract 11.06,Santa Fe County,New Mexico,26.33589951
+35049940500,2020,"Census Tract 9405, Santa Fe County, New Mexico",Census Tract 9405,Santa Fe County,New Mexico,6.064134373
+35049940600,2020,"Census Tract 9406, Santa Fe County, New Mexico",Census Tract 9406,Santa Fe County,New Mexico,12.45522581
+35049980000,2020,"Census Tract 9800, Santa Fe County, New Mexico",Census Tract 9800,Santa Fe County,New Mexico,19.42961047
+35025001004,2020,"Census Tract 10.04, Lea County, New Mexico",Census Tract 10.04,Lea County,New Mexico,15.21131592
+35029000300,2020,"Census Tract 3, Luna County, New Mexico",Census Tract 3,Luna County,New Mexico,17.74594208
+35005000202,2020,"Census Tract 2.02, Chaves County, New Mexico",Census Tract 2.02,Chaves County,New Mexico,16.37681396
+35005001002,2020,"Census Tract 10.02, Chaves County, New Mexico",Census Tract 10.02,Chaves County,New Mexico,13.25996502
+35013001204,2020,"Census Tract 12.04, Doña Ana County, New Mexico",Census Tract 12.04,Doña Ana County,New Mexico,5.271192754
+35013001103,2020,"Census Tract 11.03, Doña Ana County, New Mexico",Census Tract 11.03,Doña Ana County,New Mexico,13.21503693
+35013001707,2020,"Census Tract 17.07, Doña Ana County, New Mexico",Census Tract 17.07,Doña Ana County,New Mexico,17.05783616
+35013001706,2020,"Census Tract 17.06, Doña Ana County, New Mexico",Census Tract 17.06,Doña Ana County,New Mexico,20.99420767
+35013001805,2020,"Census Tract 18.05, Doña Ana County, New Mexico",Census Tract 18.05,Doña Ana County,New Mexico,17.92570648
+35013001203,2020,"Census Tract 12.03, Doña Ana County, New Mexico",Census Tract 12.03,Doña Ana County,New Mexico,20.07619575
+35013001205,2020,"Census Tract 12.05, Doña Ana County, New Mexico",Census Tract 12.05,Doña Ana County,New Mexico,15.62039964
+35013000103,2020,"Census Tract 1.03, Doña Ana County, New Mexico",Census Tract 1.03,Doña Ana County,New Mexico,22.08651028
+35049010315,2020,"Census Tract 103.15, Santa Fe County, New Mexico",Census Tract 103.15,Santa Fe County,New Mexico,22.96044908
+35049010316,2020,"Census Tract 103.16, Santa Fe County, New Mexico",Census Tract 103.16,Santa Fe County,New Mexico,25.32298016
+35043010721,2020,"Census Tract 107.21, Sandoval County, New Mexico",Census Tract 107.21,Sandoval County,New Mexico,13.8551926
+35023970200,2020,"Census Tract 9702, Hidalgo County, New Mexico",Census Tract 9702,Hidalgo County,New Mexico,17.36751685
+35001001500,2020,"Census Tract 15, Bernalillo County, New Mexico",Census Tract 15,Bernalillo County,New Mexico,27.47327952
+35001000126,2020,"Census Tract 1.26, Bernalillo County, New Mexico",Census Tract 1.26,Bernalillo County,New Mexico,18.41598965
+35001003804,2020,"Census Tract 38.04, Bernalillo County, New Mexico",Census Tract 38.04,Bernalillo County,New Mexico,9.387789229
+35001000401,2020,"Census Tract 4.01, Bernalillo County, New Mexico",Census Tract 4.01,Bernalillo County,New Mexico,24.47619415
+35001000114,2020,"Census Tract 1.14, Bernalillo County, New Mexico",Census Tract 1.14,Bernalillo County,New Mexico,19.0737035
+35001004715,2020,"Census Tract 47.15, Bernalillo County, New Mexico",Census Tract 47.15,Bernalillo County,New Mexico,9.15015688
+35001000117,2020,"Census Tract 1.17, Bernalillo County, New Mexico",Census Tract 1.17,Bernalillo County,New Mexico,19.73141735
+35001003201,2020,"Census Tract 32.01, Bernalillo County, New Mexico",Census Tract 32.01,Bernalillo County,New Mexico,20.01028478
+35001003736,2020,"Census Tract 37.36, Bernalillo County, New Mexico",Census Tract 37.36,Bernalillo County,New Mexico,20.3663034
+35001004300,2020,"Census Tract 43, Bernalillo County, New Mexico",Census Tract 43,Bernalillo County,New Mexico,17.75653996
+35009000303,2020,"Census Tract 3.03, Curry County, New Mexico",Census Tract 3.03,Curry County,New Mexico,15.2606146
+35001003807,2020,"Census Tract 38.07, Bernalillo County, New Mexico",Census Tract 38.07,Bernalillo County,New Mexico,6.419168237
+35001000124,2020,"Census Tract 1.24, Bernalillo County, New Mexico",Census Tract 1.24,Bernalillo County,New Mexico,19.98056698
+35001004001,2020,"Census Tract 40.01, Bernalillo County, New Mexico",Census Tract 40.01,Bernalillo County,New Mexico,10.30565595
+35001003712,2020,"Census Tract 37.12, Bernalillo County, New Mexico",Census Tract 37.12,Bernalillo County,New Mexico,18.1855266
+35001004604,2020,"Census Tract 46.04, Bernalillo County, New Mexico",Census Tract 46.04,Bernalillo County,New Mexico,12.08348801
+35001003730,2020,"Census Tract 37.30, Bernalillo County, New Mexico",Census Tract 37.30,Bernalillo County,New Mexico,17.73689716
+35001003729,2020,"Census Tract 37.29, Bernalillo County, New Mexico",Census Tract 37.29,Bernalillo County,New Mexico,17.57266682
+35001004752,2020,"Census Tract 47.52, Bernalillo County, New Mexico",Census Tract 47.52,Bernalillo County,New Mexico,21.39546341
+35001000107,2020,"Census Tract 1.07, Bernalillo County, New Mexico",Census Tract 1.07,Bernalillo County,New Mexico,14.82798456
+35001003715,2020,"Census Tract 37.15, Bernalillo County, New Mexico",Census Tract 37.15,Bernalillo County,New Mexico,17.66159145
+35001003726,2020,"Census Tract 37.26, Bernalillo County, New Mexico",Census Tract 37.26,Bernalillo County,New Mexico,15.76613121
+35001003803,2020,"Census Tract 38.03, Bernalillo County, New Mexico",Census Tract 38.03,Bernalillo County,New Mexico,6.466634547
+35001000109,2020,"Census Tract 1.09, Bernalillo County, New Mexico",Census Tract 1.09,Bernalillo County,New Mexico,19.0737035
+35001000110,2020,"Census Tract 1.10, Bernalillo County, New Mexico",Census Tract 1.10,Bernalillo County,New Mexico,19.0737035
+35001000111,2020,"Census Tract 1.11, Bernalillo County, New Mexico",Census Tract 1.11,Bernalillo County,New Mexico,17.75827579
+35001000112,2020,"Census Tract 1.12, Bernalillo County, New Mexico",Census Tract 1.12,Bernalillo County,New Mexico,16.38125813
+35001000113,2020,"Census Tract 1.13, Bernalillo County, New Mexico",Census Tract 1.13,Bernalillo County,New Mexico,18.41598965
+35001000115,2020,"Census Tract 1.15, Bernalillo County, New Mexico",Census Tract 1.15,Bernalillo County,New Mexico,20.3891312
+35001000116,2020,"Census Tract 1.16, Bernalillo County, New Mexico",Census Tract 1.16,Bernalillo County,New Mexico,19.73141735
+35001003100,2020,"Census Tract 31, Bernalillo County, New Mexico",Census Tract 31,Bernalillo County,New Mexico,18.07121278
+35001003202,2020,"Census Tract 32.02, Bernalillo County, New Mexico",Census Tract 32.02,Bernalillo County,New Mexico,20.67112481
+35001003400,2020,"Census Tract 34, Bernalillo County, New Mexico",Census Tract 34,Bernalillo County,New Mexico,23.88302112
+35001000118,2020,"Census Tract 1.18, Bernalillo County, New Mexico",Census Tract 1.18,Bernalillo County,New Mexico,19.98056698
+35001000119,2020,"Census Tract 1.19, Bernalillo County, New Mexico",Census Tract 1.19,Bernalillo County,New Mexico,19.98056698
+35001000120,2020,"Census Tract 1.20, Bernalillo County, New Mexico",Census Tract 1.20,Bernalillo County,New Mexico,19.73141735
+35001000121,2020,"Census Tract 1.21, Bernalillo County, New Mexico",Census Tract 1.21,Bernalillo County,New Mexico,20.71798813
+35001000122,2020,"Census Tract 1.22, Bernalillo County, New Mexico",Census Tract 1.22,Bernalillo County,New Mexico,20.29276331
+35001000123,2020,"Census Tract 1.23, Bernalillo County, New Mexico",Census Tract 1.23,Bernalillo County,New Mexico,21.04684505
+35001000300,2020,"Census Tract 3, Bernalillo County, New Mexico",Census Tract 3,Bernalillo County,New Mexico,24.14318473
+35001000125,2020,"Census Tract 1.25, Bernalillo County, New Mexico",Census Tract 1.25,Bernalillo County,New Mexico,16.61205161
+35001000127,2020,"Census Tract 1.27, Bernalillo County, New Mexico",Census Tract 1.27,Bernalillo County,New Mexico,19.73141735
+35001000128,2020,"Census Tract 1.28, Bernalillo County, New Mexico",Census Tract 1.28,Bernalillo County,New Mexico,23.67770046
+35001000129,2020,"Census Tract 1.29, Bernalillo County, New Mexico",Census Tract 1.29,Bernalillo County,New Mexico,23.01998661
+35001000203,2020,"Census Tract 2.03, Bernalillo County, New Mexico",Census Tract 2.03,Bernalillo County,New Mexico,21.2293523
+35001003501,2020,"Census Tract 35.01, Bernalillo County, New Mexico",Census Tract 35.01,Bernalillo County,New Mexico,19.65878487
+35001000204,2020,"Census Tract 2.04, Bernalillo County, New Mexico",Census Tract 2.04,Bernalillo County,New Mexico,23.72692295
+35001000205,2020,"Census Tract 2.05, Bernalillo County, New Mexico",Census Tract 2.05,Bernalillo County,New Mexico,23.10253029
+35001004727,2020,"Census Tract 47.27, Bernalillo County, New Mexico",Census Tract 47.27,Bernalillo County,New Mexico,
+35001000206,2020,"Census Tract 2.06, Bernalillo County, New Mexico",Census Tract 2.06,Bernalillo County,New Mexico,21.2293523
+35001000207,2020,"Census Tract 2.07, Bernalillo County, New Mexico",Census Tract 2.07,Bernalillo County,New Mexico,21.2293523
+35001000208,2020,"Census Tract 2.08, Bernalillo County, New Mexico",Census Tract 2.08,Bernalillo County,New Mexico,21.85374496
+35001004734,2020,"Census Tract 47.34, Bernalillo County, New Mexico",Census Tract 47.34,Bernalillo County,New Mexico,17.43515976
+35001002200,2020,"Census Tract 22, Bernalillo County, New Mexico",Census Tract 22,Bernalillo County,New Mexico,18.88037112
+35001000501,2020,"Census Tract 5.01, Bernalillo County, New Mexico",Census Tract 5.01,Bernalillo County,New Mexico,22.47813763
+35001004736,2020,"Census Tract 47.36, Bernalillo County, New Mexico",Census Tract 47.36,Bernalillo County,New Mexico,13.00422024
+35001000601,2020,"Census Tract 6.01, Bernalillo County, New Mexico",Census Tract 6.01,Bernalillo County,New Mexico,24.17120548
+35001000603,2020,"Census Tract 6.03, Bernalillo County, New Mexico",Census Tract 6.03,Bernalillo County,New Mexico,21.85374496
+35001000704,2020,"Census Tract 7.04, Bernalillo County, New Mexico",Census Tract 7.04,Bernalillo County,New Mexico,21.04684505
+35001000711,2020,"Census Tract 7.11, Bernalillo County, New Mexico",Census Tract 7.11,Bernalillo County,New Mexico,16.11399117
+35001000712,2020,"Census Tract 7.12, Bernalillo County, New Mexico",Census Tract 7.12,Bernalillo County,New Mexico,20.16989325
+35001001800,2020,"Census Tract 18, Bernalillo County, New Mexico",Census Tract 18,Bernalillo County,New Mexico,22.47813763
+35001002000,2020,"Census Tract 20, Bernalillo County, New Mexico",Census Tract 20,Bernalillo County,New Mexico,24.97570872
+35001002100,2020,"Census Tract 21, Bernalillo County, New Mexico",Census Tract 21,Bernalillo County,New Mexico,25.24962872
+35001003722,2020,"Census Tract 37.22, Bernalillo County, New Mexico",Census Tract 37.22,Bernalillo County,New Mexico,16.93924093
+35001003723,2020,"Census Tract 37.23, Bernalillo County, New Mexico",Census Tract 37.23,Bernalillo County,New Mexico,18.57647551
+35001003724,2020,"Census Tract 37.24, Bernalillo County, New Mexico",Census Tract 37.24,Bernalillo County,New Mexico,20.97783663
+35001004401,2020,"Census Tract 44.01, Bernalillo County, New Mexico",Census Tract 44.01,Bernalillo County,New Mexico,17.26205416
+35039944100,2020,"Census Tract 9441, Rio Arriba County, New Mexico",Census Tract 9441,Rio Arriba County,New Mexico,11.65511099
+35035940000,2020,"Census Tract 9400, Otero County, New Mexico",Census Tract 9400,Otero County,New Mexico,2.900062075
+35041000402,2020,"Census Tract 4.02, Roosevelt County, New Mexico",Census Tract 4.02,Roosevelt County,New Mexico,6.517914842
+35041000401,2020,"Census Tract 4.01, Roosevelt County, New Mexico",Census Tract 4.01,Roosevelt County,New Mexico,5.927966787
+35051962402,2020,"Census Tract 9624.02, Sierra County, New Mexico",Census Tract 9624.02,Sierra County,New Mexico,5.118669994
+35051962401,2020,"Census Tract 9624.01, Sierra County, New Mexico",Census Tract 9624.01,Sierra County,New Mexico,3.509333051
+35005000400,2020,"Census Tract 4, Chaves County, New Mexico",Census Tract 4,Chaves County,New Mexico,11.29147168
+35001003502,2020,"Census Tract 35.02, Bernalillo County, New Mexico",Census Tract 35.02,Bernalillo County,New Mexico,17.37715013
+35001003707,2020,"Census Tract 37.07, Bernalillo County, New Mexico",Census Tract 37.07,Bernalillo County,New Mexico,19.66837065
+35001003717,2020,"Census Tract 37.17, Bernalillo County, New Mexico",Census Tract 37.17,Bernalillo County,New Mexico,20.60836915
+35001000713,2020,"Census Tract 7.13, Bernalillo County, New Mexico",Census Tract 7.13,Bernalillo County,New Mexico,16.22361014
+35001000904,2020,"Census Tract 9.04, Bernalillo County, New Mexico",Census Tract 9.04,Bernalillo County,New Mexico,17.06673456
+35001001101,2020,"Census Tract 11.01, Bernalillo County, New Mexico",Census Tract 11.01,Bernalillo County,New Mexico,19.5643052
+35001001102,2020,"Census Tract 11.02, Bernalillo County, New Mexico",Census Tract 11.02,Bernalillo County,New Mexico,18.10738899
+35001001300,2020,"Census Tract 13, Bernalillo County, New Mexico",Census Tract 13,Bernalillo County,New Mexico,23.41472662
+35001002401,2020,"Census Tract 24.01, Bernalillo County, New Mexico",Census Tract 24.01,Bernalillo County,New Mexico,20.8069394
+35001002700,2020,"Census Tract 27, Bernalillo County, New Mexico",Census Tract 27,Bernalillo County,New Mexico,25.57458368
+35001002900,2020,"Census Tract 29, Bernalillo County, New Mexico",Census Tract 29,Bernalillo County,New Mexico,24.11766717
+35001003001,2020,"Census Tract 30.01, Bernalillo County, New Mexico",Census Tract 30.01,Bernalillo County,New Mexico,20.90326811
+35001003719,2020,"Census Tract 37.19, Bernalillo County, New Mexico",Census Tract 37.19,Bernalillo County,New Mexico,17.75827579
+35001003728,2020,"Census Tract 37.28, Bernalillo County, New Mexico",Census Tract 37.28,Bernalillo County,New Mexico,19.29294145
+35001003725,2020,"Census Tract 37.25, Bernalillo County, New Mexico",Census Tract 37.25,Bernalillo County,New Mexico,17.97723465
+35001003731,2020,"Census Tract 37.31, Bernalillo County, New Mexico",Census Tract 37.31,Bernalillo County,New Mexico,14.40532465
+35001003733,2020,"Census Tract 37.33, Bernalillo County, New Mexico",Census Tract 37.33,Bernalillo County,New Mexico,22.06187585
+35001001400,2020,"Census Tract 14, Bernalillo County, New Mexico",Census Tract 14,Bernalillo County,New Mexico,23.60046379
+35039000500,2020,"Census Tract 5, Rio Arriba County, New Mexico",Census Tract 5,Rio Arriba County,New Mexico,5.452420908
+35039940700,2020,"Census Tract 9407, Rio Arriba County, New Mexico",Census Tract 9407,Rio Arriba County,New Mexico,12.68932064
+35039000200,2020,"Census Tract 2, Rio Arriba County, New Mexico",Census Tract 2,Rio Arriba County,New Mexico,7.204974344
+35039940800,2020,"Census Tract 9408, Rio Arriba County, New Mexico",Census Tract 9408,Rio Arriba County,New Mexico,4.643713514
+35039000100,2020,"Census Tract 1, Rio Arriba County, New Mexico",Census Tract 1,Rio Arriba County,New Mexico,3.882383715
+35037958602,2020,"Census Tract 9586.02, Quay County, New Mexico",Census Tract 9586.02,Quay County,New Mexico,11.57526549
+35037958601,2020,"Census Tract 9586.01, Quay County, New Mexico",Census Tract 9586.01,Quay County,New Mexico,15.27519382
+35053978200,2020,"Census Tract 9782, Socorro County, New Mexico",Census Tract 9782,Socorro County,New Mexico,4.836333761
+35053978303,2020,"Census Tract 9783.03, Socorro County, New Mexico",Census Tract 9783.03,Socorro County,New Mexico,13.54718051
+35053978100,2020,"Census Tract 9781, Socorro County, New Mexico",Census Tract 9781,Socorro County,New Mexico,3.968962669
+35053978302,2020,"Census Tract 9783.02, Socorro County, New Mexico",Census Tract 9783.02,Socorro County,New Mexico,16.53063602
+35053978301,2020,"Census Tract 9783.01, Socorro County, New Mexico",Census Tract 9783.01,Socorro County,New Mexico,10.47192331
+35005001200,2020,"Census Tract 12, Chaves County, New Mexico",Census Tract 12,Chaves County,New Mexico,3.727253271
+35005000500,2020,"Census Tract 5, Chaves County, New Mexico",Census Tract 5,Chaves County,New Mexico,20.71199504
+35005001300,2020,"Census Tract 13, Chaves County, New Mexico",Census Tract 13,Chaves County,New Mexico,6.275030084
+35053940000,2020,"Census Tract 9400, Socorro County, New Mexico",Census Tract 9400,Socorro County,New Mexico,1.60831777
+35005000900,2020,"Census Tract 9, Chaves County, New Mexico",Census Tract 9,Chaves County,New Mexico,15.61242568
+35043010722,2020,"Census Tract 107.22, Sandoval County, New Mexico",Census Tract 107.22,Sandoval County,New Mexico,9.493446414
+35043011200,2020,"Census Tract 112, Sandoval County, New Mexico",Census Tract 112,Sandoval County,New Mexico,5.43854255
+35043940900,2020,"Census Tract 9409, Sandoval County, New Mexico",Census Tract 9409,Sandoval County,New Mexico,4.674227282
+35049001205,2020,"Census Tract 12.05, Santa Fe County, New Mexico",Census Tract 12.05,Santa Fe County,New Mexico,24.87358156
+35049001304,2020,"Census Tract 13.04, Santa Fe County, New Mexico",Census Tract 13.04,Santa Fe County,New Mexico,21.5355666
+35049010312,2020,"Census Tract 103.12, Santa Fe County, New Mexico",Census Tract 103.12,Santa Fe County,New Mexico,11.23883759
+35049010310,2020,"Census Tract 103.10, Santa Fe County, New Mexico",Census Tract 103.10,Santa Fe County,New Mexico,6.078401002
+35049010311,2020,"Census Tract 103.11, Santa Fe County, New Mexico",Census Tract 103.11,Santa Fe County,New Mexico,8.636468187
+35049940400,2020,"Census Tract 9404, Santa Fe County, New Mexico",Census Tract 9404,Santa Fe County,New Mexico,9.495605195
+35049010900,2020,"Census Tract 109, Santa Fe County, New Mexico",Census Tract 109,Santa Fe County,New Mexico,4.285744647
+35049001102,2020,"Census Tract 11.02, Santa Fe County, New Mexico",Census Tract 11.02,Santa Fe County,New Mexico,24.67944083
+35045000707,2020,"Census Tract 7.07, San Juan County, New Mexico",Census Tract 7.07,San Juan County,New Mexico,7.045811618
+35045000504,2020,"Census Tract 5.04, San Juan County, New Mexico",Census Tract 5.04,San Juan County,New Mexico,4.125392847
+35045942803,2020,"Census Tract 9428.03, San Juan County, New Mexico",Census Tract 9428.03,San Juan County,New Mexico,6.950382844
+35045000607,2020,"Census Tract 6.07, San Juan County, New Mexico",Census Tract 6.07,San Juan County,New Mexico,6.973573236
+35045000708,2020,"Census Tract 7.08, San Juan County, New Mexico",Census Tract 7.08,San Juan County,New Mexico,6.228069945
+35045000900,2020,"Census Tract 9, San Juan County, New Mexico",Census Tract 9,San Juan County,New Mexico,5.258362454
+35045943300,2020,"Census Tract 9433, San Juan County, New Mexico",Census Tract 9433,San Juan County,New Mexico,4.399370374
+35049001301,2020,"Census Tract 13.01, Santa Fe County, New Mexico",Census Tract 13.01,Santa Fe County,New Mexico,18.2095287
+35049001302,2020,"Census Tract 13.02, Santa Fe County, New Mexico",Census Tract 13.02,Santa Fe County,New Mexico,25.09841906
+35049010602,2020,"Census Tract 106.02, Santa Fe County, New Mexico",Census Tract 106.02,Santa Fe County,New Mexico,2.687525405
+35001004742,2020,"Census Tract 47.42, Bernalillo County, New Mexico",Census Tract 47.42,Bernalillo County,New Mexico,18.34093208
+35045000612,2020,"Census Tract 6.12, San Juan County, New Mexico",Census Tract 6.12,San Juan County,New Mexico,8.499529917
+35045000609,2020,"Census Tract 6.09, San Juan County, New Mexico",Census Tract 6.09,San Juan County,New Mexico,8.093956002
+35043010715,2020,"Census Tract 107.15, Sandoval County, New Mexico",Census Tract 107.15,Sandoval County,New Mexico,15.79566829
+35041000100,2020,"Census Tract 1, Roosevelt County, New Mexico",Census Tract 1,Roosevelt County,New Mexico,18.14918487
+35001004720,2020,"Census Tract 47.20, Bernalillo County, New Mexico",Census Tract 47.20,Bernalillo County,New Mexico,20.39255073
+35001000714,2020,"Census Tract 7.14, Bernalillo County, New Mexico",Census Tract 7.14,Bernalillo County,New Mexico,16.79725539
+35005000700,2020,"Census Tract 7, Chaves County, New Mexico",Census Tract 7,Chaves County,New Mexico,16.21207117
+35005000600,2020,"Census Tract 6, Chaves County, New Mexico",Census Tract 6,Chaves County,New Mexico,13.75020257
+35005000800,2020,"Census Tract 8, Chaves County, New Mexico",Census Tract 8,Chaves County,New Mexico,11.0553908
+35025001005,2020,"Census Tract 10.05, Lea County, New Mexico",Census Tract 10.05,Lea County,New Mexico,16.52340897
+35025000503,2020,"Census Tract 5.03, Lea County, New Mexico",Census Tract 5.03,Lea County,New Mexico,22.00620637
+35049010204,2020,"Census Tract 102.04, Santa Fe County, New Mexico",Census Tract 102.04,Santa Fe County,New Mexico,4.862165448
+35049010309,2020,"Census Tract 103.09, Santa Fe County, New Mexico",Census Tract 103.09,Santa Fe County,New Mexico,6.205350642
+35049010603,2020,"Census Tract 106.03, Santa Fe County, New Mexico",Census Tract 106.03,Santa Fe County,New Mexico,6.740661936
+35049010601,2020,"Census Tract 106.01, Santa Fe County, New Mexico",Census Tract 106.01,Santa Fe County,New Mexico,11.84871387
+35037958900,2020,"Census Tract 9589, Quay County, New Mexico",Census Tract 9589,Quay County,New Mexico,6.161906484
+35021000100,2020,"Census Tract 1, Harding County, New Mexico",Census Tract 1,Harding County,New Mexico,5.114179951
+35043010602,2020,"Census Tract 106.02, Sandoval County, New Mexico",Census Tract 106.02,Sandoval County,New Mexico,12.77810507
+35043010705,2020,"Census Tract 107.05, Sandoval County, New Mexico",Census Tract 107.05,Sandoval County,New Mexico,16.35388446
+35043010712,2020,"Census Tract 107.12, Sandoval County, New Mexico",Census Tract 107.12,Sandoval County,New Mexico,17.78809928
+35043940300,2020,"Census Tract 9403, Sandoval County, New Mexico",Census Tract 9403,Sandoval County,New Mexico,11.22113503
+35043940500,2020,"Census Tract 9405, Sandoval County, New Mexico",Census Tract 9405,Sandoval County,New Mexico,14.24992187
+35043010503,2020,"Census Tract 105.03, Sandoval County, New Mexico",Census Tract 105.03,Sandoval County,New Mexico,15.38726132
+35025000704,2020,"Census Tract 7.04, Lea County, New Mexico",Census Tract 7.04,Lea County,New Mexico,14.82157644
+35049001001,2020,"Census Tract 10.01, Santa Fe County, New Mexico",Census Tract 10.01,Santa Fe County,New Mexico,22.8598934
+35049001002,2020,"Census Tract 10.02, Santa Fe County, New Mexico",Census Tract 10.02,Santa Fe County,New Mexico,28.58112019
+35049000400,2020,"Census Tract 4, Santa Fe County, New Mexico",Census Tract 4,Santa Fe County,New Mexico,21.34544487
+35049000900,2020,"Census Tract 9, Santa Fe County, New Mexico",Census Tract 9,Santa Fe County,New Mexico,27.59556419
+35049001203,2020,"Census Tract 12.03, Santa Fe County, New Mexico",Census Tract 12.03,Santa Fe County,New Mexico,22.55777193
+35049010304,2020,"Census Tract 103.04, Santa Fe County, New Mexico",Census Tract 103.04,Santa Fe County,New Mexico,15.02482021
+35049010500,2020,"Census Tract 105, Santa Fe County, New Mexico",Census Tract 105,Santa Fe County,New Mexico,8.929383808
+35049000700,2020,"Census Tract 7, Santa Fe County, New Mexico",Census Tract 7,Santa Fe County,New Mexico,28.58112019
+35035000602,2020,"Census Tract 6.02, Otero County, New Mexico",Census Tract 6.02,Otero County,New Mexico,6.732647192
+35035000603,2020,"Census Tract 6.03, Otero County, New Mexico",Census Tract 6.03,Otero County,New Mexico,10.01435581
+35035000601,2020,"Census Tract 6.01, Otero County, New Mexico",Census Tract 6.01,Otero County,New Mexico,5.138671887
+35035000401,2020,"Census Tract 4.01, Otero County, New Mexico",Census Tract 4.01,Otero County,New Mexico,16.93585722
+35035000100,2020,"Census Tract 1, Otero County, New Mexico",Census Tract 1,Otero County,New Mexico,14.68357891
+35035000200,2020,"Census Tract 2, Otero County, New Mexico",Census Tract 2,Otero County,New Mexico,14.69723639
+35025000703,2020,"Census Tract 7.03, Lea County, New Mexico",Census Tract 7.03,Lea County,New Mexico,12.61998704
+35001004402,2020,"Census Tract 44.02, Bernalillo County, New Mexico",Census Tract 44.02,Bernalillo County,New Mexico,15.71080323
+35001004501,2020,"Census Tract 45.01, Bernalillo County, New Mexico",Census Tract 45.01,Bernalillo County,New Mexico,16.76457642
+35001004712,2020,"Census Tract 47.12, Bernalillo County, New Mexico",Census Tract 47.12,Bernalillo County,New Mexico,18.32437677
+35001004713,2020,"Census Tract 47.13, Bernalillo County, New Mexico",Census Tract 47.13,Bernalillo County,New Mexico,16.49983154
+35001004724,2020,"Census Tract 47.24, Bernalillo County, New Mexico",Census Tract 47.24,Bernalillo County,New Mexico,20.05824739
+35001004726,2020,"Census Tract 47.26, Bernalillo County, New Mexico",Census Tract 47.26,Bernalillo County,New Mexico,22.2518664
+35001004728,2020,"Census Tract 47.28, Bernalillo County, New Mexico",Census Tract 47.28,Bernalillo County,New Mexico,20.22896896
+35001004729,2020,"Census Tract 47.29, Bernalillo County, New Mexico",Census Tract 47.29,Bernalillo County,New Mexico,18.88037093
+35001004725,2020,"Census Tract 47.25, Bernalillo County, New Mexico",Census Tract 47.25,Bernalillo County,New Mexico,21.39546341
+35001004744,2020,"Census Tract 47.44, Bernalillo County, New Mexico",Census Tract 47.44,Bernalillo County,New Mexico,14.38064659
+35001004739,2020,"Census Tract 47.39, Bernalillo County, New Mexico",Census Tract 47.39,Bernalillo County,New Mexico,18.88037067
+35001004733,2020,"Census Tract 47.33, Bernalillo County, New Mexico",Census Tract 47.33,Bernalillo County,New Mexico,20.54196583
+35001004753,2020,"Census Tract 47.53, Bernalillo County, New Mexico",Census Tract 47.53,Bernalillo County,New Mexico,22.73267972
+35001004750,2020,"Census Tract 47.50, Bernalillo County, New Mexico",Census Tract 47.50,Bernalillo County,New Mexico,20.90326811
+35001004745,2020,"Census Tract 47.45, Bernalillo County, New Mexico",Census Tract 47.45,Bernalillo County,New Mexico,21.72976764
+35001004747,2020,"Census Tract 47.47, Bernalillo County, New Mexico",Census Tract 47.47,Bernalillo County,New Mexico,19.52336009
+35015001100,2020,"Census Tract 11, Eddy County, New Mexico",Census Tract 11,Eddy County,New Mexico,12.51039202
+35015000700,2020,"Census Tract 7, Eddy County, New Mexico",Census Tract 7,Eddy County,New Mexico,5.297977994
+35017964200,2020,"Census Tract 9642, Grant County, New Mexico",Census Tract 9642,Grant County,New Mexico,4.428447071
+35001004749,2020,"Census Tract 47.49, Bernalillo County, New Mexico",Census Tract 47.49,Bernalillo County,New Mexico,18.88037067
+35001003737,2020,"Census Tract 37.37, Bernalillo County, New Mexico",Census Tract 37.37,Bernalillo County,New Mexico,22.36227276
+35001004735,2020,"Census Tract 47.35, Bernalillo County, New Mexico",Census Tract 47.35,Bernalillo County,New Mexico,18.36395229
+35001004743,2020,"Census Tract 47.43, Bernalillo County, New Mexico",Census Tract 47.43,Bernalillo County,New Mexico,26.29765992
+35015000401,2020,"Census Tract 4.01, Eddy County, New Mexico",Census Tract 4.01,Eddy County,New Mexico,12.25970585
+35015000402,2020,"Census Tract 4.02, Eddy County, New Mexico",Census Tract 4.02,Eddy County,New Mexico,21.54289995
+35015000100,2020,"Census Tract 1, Eddy County, New Mexico",Census Tract 1,Eddy County,New Mexico,22.78490145
+35015000600,2020,"Census Tract 6, Eddy County, New Mexico",Census Tract 6,Eddy County,New Mexico,19.28839354
+35015000300,2020,"Census Tract 3, Eddy County, New Mexico",Census Tract 3,Eddy County,New Mexico,28.29183837
+35001000402,2020,"Census Tract 4.02, Bernalillo County, New Mexico",Census Tract 4.02,Bernalillo County,New Mexico,
+35015000900,2020,"Census Tract 9, Eddy County, New Mexico",Census Tract 9,Eddy County,New Mexico,5.522714713
+35015000800,2020,"Census Tract 8, Eddy County, New Mexico",Census Tract 8,Eddy County,New Mexico,7.390706243
+35015000500,2020,"Census Tract 5, Eddy County, New Mexico",Census Tract 5,Eddy County,New Mexico,19.92888211
+35015000200,2020,"Census Tract 2, Eddy County, New Mexico",Census Tract 2,Eddy County,New Mexico,18.81620505
+35017964600,2020,"Census Tract 9646, Grant County, New Mexico",Census Tract 9646,Grant County,New Mexico,6.112887382
+35017964800,2020,"Census Tract 9648, Grant County, New Mexico",Census Tract 9648,Grant County,New Mexico,6.161520203
+35017964500,2020,"Census Tract 9645, Grant County, New Mexico",Census Tract 9645,Grant County,New Mexico,12.11161893
+35017964300,2020,"Census Tract 9643, Grant County, New Mexico",Census Tract 9643,Grant County,New Mexico,13.968454
+35017964100,2020,"Census Tract 9641, Grant County, New Mexico",Census Tract 9641,Grant County,New Mexico,3.984018806
+35006946100,2020,"Census Tract 9461, Cibola County, New Mexico",Census Tract 9461,Cibola County,New Mexico,5.988854024
+35019961600,2020,"Census Tract 9616, Guadalupe County, New Mexico",Census Tract 9616,Guadalupe County,New Mexico,5.721807509
+35035000305,2020,"Census Tract 3.05, Otero County, New Mexico",Census Tract 3.05,Otero County,New Mexico,15.19397716
+35045942900,2020,"Census Tract 9429, San Juan County, New Mexico",Census Tract 9429,San Juan County,New Mexico,3.656034303
+35025000702,2020,"Census Tract 7.02, Lea County, New Mexico",Census Tract 7.02,Lea County,New Mexico,9.091524122
+35025000701,2020,"Census Tract 7.01, Lea County, New Mexico",Census Tract 7.01,Lea County,New Mexico,8.172624779
+35055952300,2020,"Census Tract 9523, Taos County, New Mexico",Census Tract 9523,Taos County,New Mexico,5.621961704
+35055940000,2020,"Census Tract 9400, Taos County, New Mexico",Census Tract 9400,Taos County,New Mexico,7.363361782
+35001003806,2020,"Census Tract 38.06, Bernalillo County, New Mexico",Census Tract 38.06,Bernalillo County,New Mexico,8.232177523
+35001003738,2020,"Census Tract 37.38, Bernalillo County, New Mexico",Census Tract 37.38,Bernalillo County,New Mexico,20.37567095
+35031973100,2020,"Census Tract 9731, McKinley County, New Mexico",Census Tract 9731,McKinley County,New Mexico,3.668933162
+35031944000,2020,"Census Tract 9440, McKinley County, New Mexico",Census Tract 9440,McKinley County,New Mexico,3.854685788
+35031940500,2020,"Census Tract 9405, McKinley County, New Mexico",Census Tract 9405,McKinley County,New Mexico,6.00535003
+35001004737,2020,"Census Tract 47.37, Bernalillo County, New Mexico",Census Tract 47.37,Bernalillo County,New Mexico,15.80558706
+35001940700,2020,"Census Tract 9407, Bernalillo County, New Mexico",Census Tract 9407,Bernalillo County,New Mexico,4.016825563
+35001940500,2020,"Census Tract 9405, Bernalillo County, New Mexico",Census Tract 9405,Bernalillo County,New Mexico,10.11760312
+35001004603,2020,"Census Tract 46.03, Bernalillo County, New Mexico",Census Tract 46.03,Bernalillo County,New Mexico,12.80388859
+35001004723,2020,"Census Tract 47.23, Bernalillo County, New Mexico",Census Tract 47.23,Bernalillo County,New Mexico,20.24927774
+35035000306,2020,"Census Tract 3.06, Otero County, New Mexico",Census Tract 3.06,Otero County,New Mexico,16.70715102
+35035000304,2020,"Census Tract 3.04, Otero County, New Mexico",Census Tract 3.04,Otero County,New Mexico,17.87422921
+35045000100,2020,"Census Tract 1, San Juan County, New Mexico",Census Tract 1,San Juan County,New Mexico,8.687581217
+35061970405,2020,"Census Tract 9704.05, Valencia County, New Mexico",Census Tract 9704.05,Valencia County,New Mexico,10.74620266
+35061970404,2020,"Census Tract 9704.04, Valencia County, New Mexico",Census Tract 9704.04,Valencia County,New Mexico,13.76744626
+35025000504,2020,"Census Tract 5.04, Lea County, New Mexico",Census Tract 5.04,Lea County,New Mexico,18.80181129
+35045943000,2020,"Census Tract 9430, San Juan County, New Mexico",Census Tract 9430,San Juan County,New Mexico,3.002262473
+35045000613,2020,"Census Tract 6.13, San Juan County, New Mexico",Census Tract 6.13,San Juan County,New Mexico,6.240765291
+35045000401,2020,"Census Tract 4.01, San Juan County, New Mexico",Census Tract 4.01,San Juan County,New Mexico,7.969466808
+35045000301,2020,"Census Tract 3.01, San Juan County, New Mexico",Census Tract 3.01,San Juan County,New Mexico,6.788739639
+35045000202,2020,"Census Tract 2.02, San Juan County, New Mexico",Census Tract 2.02,San Juan County,New Mexico,6.67731628
+35045000204,2020,"Census Tract 2.04, San Juan County, New Mexico",Census Tract 2.04,San Juan County,New Mexico,7.815212687
+35045000402,2020,"Census Tract 4.02, San Juan County, New Mexico",Census Tract 4.02,San Juan County,New Mexico,10.38240466
+35001003600,2020,"Census Tract 36, Bernalillo County, New Mexico",Census Tract 36,Bernalillo County,New Mexico,17.37799312
+35001004502,2020,"Census Tract 45.02, Bernalillo County, New Mexico",Census Tract 45.02,Bernalillo County,New Mexico,16.98810435
+35001004602,2020,"Census Tract 46.02, Bernalillo County, New Mexico",Census Tract 46.02,Bernalillo County,New Mexico,11.60699404
+35006974202,2020,"Census Tract 9742.02, Cibola County, New Mexico",Census Tract 9742.02,Cibola County,New Mexico,13.21931208
+35001004722,2020,"Census Tract 47.22, Bernalillo County, New Mexico",Census Tract 47.22,Bernalillo County,New Mexico,18.05242203
+35045943201,2020,"Census Tract 9432.01, San Juan County, New Mexico",Census Tract 9432.01,San Juan County,New Mexico,3.62369889
+35045943100,2020,"Census Tract 9431, San Juan County, New Mexico",Census Tract 9431,San Juan County,New Mexico,4.381664861
+35045000201,2020,"Census Tract 2.01, San Juan County, New Mexico",Census Tract 2.01,San Juan County,New Mexico,6.952111166
+35009000100,2020,"Census Tract 1, Curry County, New Mexico",Census Tract 1,Curry County,New Mexico,17.28636702
+35009000500,2020,"Census Tract 5, Curry County, New Mexico",Census Tract 5,Curry County,New Mexico,15.08940552
+35009000900,2020,"Census Tract 9, Curry County, New Mexico",Census Tract 9,Curry County,New Mexico,14.30536395
+35001003002,2020,"Census Tract 30.02, Bernalillo County, New Mexico",Census Tract 30.02,Bernalillo County,New Mexico,19.68952965
+35005001001,2020,"Census Tract 10.01, Chaves County, New Mexico",Census Tract 10.01,Chaves County,New Mexico,12.27452027
+35045000702,2020,"Census Tract 7.02, San Juan County, New Mexico",Census Tract 7.02,San Juan County,New Mexico,5.521194935
+35009000400,2020,"Census Tract 4, Curry County, New Mexico",Census Tract 4,Curry County,New Mexico,16.27106667
+35009000202,2020,"Census Tract 2.02, Curry County, New Mexico",Census Tract 2.02,Curry County,New Mexico,15.16264385
+35009000201,2020,"Census Tract 2.01, Curry County, New Mexico",Census Tract 2.01,Curry County,New Mexico,13.01213789
+35001004738,2020,"Census Tract 47.38, Bernalillo County, New Mexico",Census Tract 47.38,Bernalillo County,New Mexico,17.4351594
+35029000600,2020,"Census Tract 6, Luna County, New Mexico",Census Tract 6,Luna County,New Mexico,19.41653648
+35029000100,2020,"Census Tract 1, Luna County, New Mexico",Census Tract 1,Luna County,New Mexico,15.24709659
+35029000200,2020,"Census Tract 2, Luna County, New Mexico",Census Tract 2,Luna County,New Mexico,15.27943881
+35029000500,2020,"Census Tract 5, Luna County, New Mexico",Census Tract 5,Luna County,New Mexico,4.764620062
+35013001703,2020,"Census Tract 17.03, Doña Ana County, New Mexico",Census Tract 17.03,Doña Ana County,New Mexico,8.652359788
+35013001900,2020,"Census Tract 19, Doña Ana County, New Mexico",Census Tract 19,Doña Ana County,New Mexico,3.776147134
+35013001600,2020,"Census Tract 16, Doña Ana County, New Mexico",Census Tract 16,Doña Ana County,New Mexico,5.814606191
+35013000104,2020,"Census Tract 1.04, Doña Ana County, New Mexico",Census Tract 1.04,Doña Ana County,New Mexico,22.9610229
+35013000402,2020,"Census Tract 4.02, Doña Ana County, New Mexico",Census Tract 4.02,Doña Ana County,New Mexico,27.23345062
+35013001102,2020,"Census Tract 11.02, Doña Ana County, New Mexico",Census Tract 11.02,Doña Ana County,New Mexico,16.29548537
+35013000600,2020,"Census Tract 6, Doña Ana County, New Mexico",Census Tract 6,Doña Ana County,New Mexico,27.36694874
+35013001701,2020,"Census Tract 17.01, Doña Ana County, New Mexico",Census Tract 17.01,Doña Ana County,New Mexico,4.660493591
+35027960200,2020,"Census Tract 9602, Lincoln County, New Mexico",Census Tract 9602,Lincoln County,New Mexico,4.839627893
+35027960300,2020,"Census Tract 9603, Lincoln County, New Mexico",Census Tract 9603,Lincoln County,New Mexico,4.020221369
+35027960800,2020,"Census Tract 9608, Lincoln County, New Mexico",Census Tract 9608,Lincoln County,New Mexico,7.625039087
+35001000108,2020,"Census Tract 1.08, Bernalillo County, New Mexico",Census Tract 1.08,Bernalillo County,New Mexico,17.75827579
+35001003718,2020,"Census Tract 37.18, Bernalillo County, New Mexico",Census Tract 37.18,Bernalillo County,New Mexico,19.73141735
+35013000102,2020,"Census Tract 1.02, Doña Ana County, New Mexico",Census Tract 1.02,Doña Ana County,New Mexico,26.53259
+35039941000,2020,"Census Tract 9410, Rio Arriba County, New Mexico",Census Tract 9410,Rio Arriba County,New Mexico,4.180646738
+35005001400,2020,"Census Tract 14, Chaves County, New Mexico",Census Tract 14,Chaves County,New Mexico,7.310908802
+35049940900,2020,"Census Tract 9409, Santa Fe County, New Mexico",Census Tract 9409,Santa Fe County,New Mexico,12.13292882
+35023970000,2020,"Census Tract 9700, Hidalgo County, New Mexico",Census Tract 9700,Hidalgo County,New Mexico,4.065261713
+35035000303,2020,"Census Tract 3.03, Otero County, New Mexico",Census Tract 3.03,Otero County,New Mexico,16.35821657
+35035000901,2020,"Census Tract 9.01, Otero County, New Mexico",Census Tract 9.01,Otero County,New Mexico,6.940950698
+35043010713,2020,"Census Tract 107.13, Sandoval County, New Mexico",Census Tract 107.13,Sandoval County,New Mexico,14.48000141
+35005001102,2020,"Census Tract 11.02, Chaves County, New Mexico",Census Tract 11.02,Chaves County,New Mexico,4.321654891
+35005001101,2020,"Census Tract 11.01, Chaves County, New Mexico",Census Tract 11.01,Chaves County,New Mexico,9.515873628
+35031945400,2020,"Census Tract 9454, McKinley County, New Mexico",Census Tract 9454,McKinley County,New Mexico,21.79354839
+35031943500,2020,"Census Tract 9435, McKinley County, New Mexico",Census Tract 9435,McKinley County,New Mexico,5.973052953
+35031945300,2020,"Census Tract 9453, McKinley County, New Mexico",Census Tract 9453,McKinley County,New Mexico,12.45191793
+35007950700,2020,"Census Tract 9507, Colfax County, New Mexico",Census Tract 9507,Colfax County,New Mexico,5.139019143
+35007950500,2020,"Census Tract 9505, Colfax County, New Mexico",Census Tract 9505,Colfax County,New Mexico,6.305563782
+35007950600,2020,"Census Tract 9506, Colfax County, New Mexico",Census Tract 9506,Colfax County,New Mexico,2.696183222
+35045000302,2020,"Census Tract 3.02, San Juan County, New Mexico",Census Tract 3.02,San Juan County,New Mexico,7.670059204
+35057963700,2020,"Census Tract 9637, Torrance County, New Mexico",Census Tract 9637,Torrance County,New Mexico,6.11380802
+35013001207,2020,"Census Tract 12.07, Doña Ana County, New Mexico",Census Tract 12.07,Doña Ana County,New Mexico,6.993127906
+35013001314,2020,"Census Tract 13.14, Doña Ana County, New Mexico",Census Tract 13.14,Doña Ana County,New Mexico,2.848457493
+35013001310,2020,"Census Tract 13.10, Doña Ana County, New Mexico",Census Tract 13.10,Doña Ana County,New Mexico,17.78483481
+35013001316,2020,"Census Tract 13.16, Doña Ana County, New Mexico",Census Tract 13.16,Doña Ana County,New Mexico,19.63242841
+35013001208,2020,"Census Tract 12.08, Doña Ana County, New Mexico",Census Tract 12.08,Doña Ana County,New Mexico,12.26769147
+35013001315,2020,"Census Tract 13.15, Doña Ana County, New Mexico",Census Tract 13.15,Doña Ana County,New Mexico,13.60614925
+35013001313,2020,"Census Tract 13.13, Doña Ana County, New Mexico",Census Tract 13.13,Doña Ana County,New Mexico,11.59884696
+35013001308,2020,"Census Tract 13.08, Doña Ana County, New Mexico",Census Tract 13.08,Doña Ana County,New Mexico,2.994993699
+35013001812,2020,"Census Tract 18.12, Doña Ana County, New Mexico",Census Tract 18.12,Doña Ana County,New Mexico,11.46551487
+35013001105,2020,"Census Tract 11.05, Doña Ana County, New Mexico",Census Tract 11.05,Doña Ana County,New Mexico,24.02951557
+35013001811,2020,"Census Tract 18.11, Doña Ana County, New Mexico",Census Tract 18.11,Doña Ana County,New Mexico,14.28246937
+35013001501,2020,"Census Tract 15.01, Doña Ana County, New Mexico",Census Tract 15.01,Doña Ana County,New Mexico,4.782526635
+35013001813,2020,"Census Tract 18.13, Doña Ana County, New Mexico",Census Tract 18.13,Doña Ana County,New Mexico,15.15112342
+35013000204,2020,"Census Tract 2.04, Doña Ana County, New Mexico",Census Tract 2.04,Doña Ana County,New Mexico,21.47346111
+35013001206,2020,"Census Tract 12.06, Doña Ana County, New Mexico",Census Tract 12.06,Doña Ana County,New Mexico,23.15893068
+35013001401,2020,"Census Tract 14.01, Doña Ana County, New Mexico",Census Tract 14.01,Doña Ana County,New Mexico,6.583973401
+35013001402,2020,"Census Tract 14.02, Doña Ana County, New Mexico",Census Tract 14.02,Doña Ana County,New Mexico,10.41630995
+35013000901,2020,"Census Tract 9.01, Doña Ana County, New Mexico",Census Tract 9.01,Doña Ana County,New Mexico,28.03443573
+35013000902,2020,"Census Tract 9.02, Doña Ana County, New Mexico",Census Tract 9.02,Doña Ana County,New Mexico,26.03197475
+35013001808,2020,"Census Tract 18.08, Doña Ana County, New Mexico",Census Tract 18.08,Doña Ana County,New Mexico,17.91933825
+35013001318,2020,"Census Tract 13.18, Doña Ana County, New Mexico",Census Tract 13.18,Doña Ana County,New Mexico,16.04156097
+35013000203,2020,"Census Tract 2.03, Doña Ana County, New Mexico",Census Tract 2.03,Doña Ana County,New Mexico,22.52767029
+35013000206,2020,"Census Tract 2.06, Doña Ana County, New Mexico",Census Tract 2.06,Doña Ana County,New Mexico,31.18115705
+35013000205,2020,"Census Tract 2.05, Doña Ana County, New Mexico",Census Tract 2.05,Doña Ana County,New Mexico,29.23591088
+35013001807,2020,"Census Tract 18.07, Doña Ana County, New Mexico",Census Tract 18.07,Doña Ana County,New Mexico,22.85238649
+35013001106,2020,"Census Tract 11.06, Doña Ana County, New Mexico",Census Tract 11.06,Doña Ana County,New Mexico,16.54592368
+35013001502,2020,"Census Tract 15.02, Doña Ana County, New Mexico",Census Tract 15.02,Doña Ana County,New Mexico,16.14852204
+35013001810,2020,"Census Tract 18.10, Doña Ana County, New Mexico",Census Tract 18.10,Doña Ana County,New Mexico,8.29879509
+35013001814,2020,"Census Tract 18.14, Doña Ana County, New Mexico",Census Tract 18.14,Doña Ana County,New Mexico,14.49197222
+35013001317,2020,"Census Tract 13.17, Doña Ana County, New Mexico",Census Tract 13.17,Doña Ana County,New Mexico,19.33181434
+35013001209,2020,"Census Tract 12.09, Doña Ana County, New Mexico",Census Tract 12.09,Doña Ana County,New Mexico,15.08552252
+35013001210,2020,"Census Tract 12.10, Doña Ana County, New Mexico",Census Tract 12.10,Doña Ana County,New Mexico,19.02024093
+35013001309,2020,"Census Tract 13.09, Doña Ana County, New Mexico",Census Tract 13.09,Doña Ana County,New Mexico,17.30571454
+35013001311,2020,"Census Tract 13.11, Doña Ana County, New Mexico",Census Tract 13.11,Doña Ana County,New Mexico,19.07904177
+35013001312,2020,"Census Tract 13.12, Doña Ana County, New Mexico",Census Tract 13.12,Doña Ana County,New Mexico,28.2095311
+35001004756,2020,"Census Tract 47.56, Bernalillo County, New Mexico",Census Tract 47.56,Bernalillo County,New Mexico,19.38963804
+35001002302,2020,"Census Tract 23.02, Bernalillo County, New Mexico",Census Tract 23.02,Bernalillo County,New Mexico,18.43083851
+35001001202,2020,"Census Tract 12.02, Bernalillo County, New Mexico",Census Tract 12.02,Bernalillo County,New Mexico,20.2023785
+35013001809,2020,"Census Tract 18.09, Doña Ana County, New Mexico",Census Tract 18.09,Doña Ana County,New Mexico,12.56620048
+35003976401,2020,"Census Tract 9764.01, Catron County, New Mexico",Census Tract 9764.01,Catron County,New Mexico,3.840829388
+35003976402,2020,"Census Tract 9764.02, Catron County, New Mexico",Census Tract 9764.02,Catron County,New Mexico,3.356769081
+35001004763,2020,"Census Tract 47.63, Bernalillo County, New Mexico",Census Tract 47.63,Bernalillo County,New Mexico,20.0582465
+35001004800,2020,"Census Tract 48, Bernalillo County, New Mexico",Census Tract 48,Bernalillo County,New Mexico,22.42044096
+35001002303,2020,"Census Tract 23.03, Bernalillo County, New Mexico",Census Tract 23.03,Bernalillo County,New Mexico,19.55467072
+35001004764,2020,"Census Tract 47.64, Bernalillo County, New Mexico",Census Tract 47.64,Bernalillo County,New Mexico,20.94972444
+35001980600,2020,"Census Tract 9806, Bernalillo County, New Mexico",Census Tract 9806,Bernalillo County,New Mexico,12.81732637
+35001001201,2020,"Census Tract 12.01, Bernalillo County, New Mexico",Census Tract 12.01,Bernalillo County,New Mexico,18.73178165
+35001000905,2020,"Census Tract 9.05, Bernalillo County, New Mexico",Census Tract 9.05,Bernalillo County,New Mexico,18.73178165
+35001004760,2020,"Census Tract 47.60, Bernalillo County, New Mexico",Census Tract 47.60,Bernalillo County,New Mexico,20.49868862
+35001002301,2020,"Census Tract 23.01, Bernalillo County, New Mexico",Census Tract 23.01,Bernalillo County,New Mexico,17.53177418
+35001000605,2020,"Census Tract 6.05, Bernalillo County, New Mexico",Census Tract 6.05,Bernalillo County,New Mexico,21.85374496
+35001940601,2020,"Census Tract 9406.01, Bernalillo County, New Mexico",Census Tract 9406.01,Bernalillo County,New Mexico,15.90266118
+35001004761,2020,"Census Tract 47.61, Bernalillo County, New Mexico",Census Tract 47.61,Bernalillo County,New Mexico,19.89181939
+35001940602,2020,"Census Tract 9406.02, Bernalillo County, New Mexico",Census Tract 9406.02,Bernalillo County,New Mexico,4.795712303
+35001000906,2020,"Census Tract 9.06, Bernalillo County, New Mexico",Census Tract 9.06,Bernalillo County,New Mexico,16.85860367
+35001003743,2020,"Census Tract 37.43, Bernalillo County, New Mexico",Census Tract 37.43,Bernalillo County,New Mexico,16.98255814
+35001002403,2020,"Census Tract 24.03, Bernalillo County, New Mexico",Census Tract 24.03,Bernalillo County,New Mexico,20.22896896
+35001004755,2020,"Census Tract 47.55, Bernalillo County, New Mexico",Census Tract 47.55,Bernalillo County,New Mexico,14.43861662
+35001002404,2020,"Census Tract 24.04, Bernalillo County, New Mexico",Census Tract 24.04,Bernalillo County,New Mexico,20.22896896
+35001003742,2020,"Census Tract 37.42, Bernalillo County, New Mexico",Census Tract 37.42,Bernalillo County,New Mexico,6.936662817
+35001940800,2020,"Census Tract 9408, Bernalillo County, New Mexico",Census Tract 9408,Bernalillo County,New Mexico,13.72021776
+35001003740,2020,"Census Tract 37.40, Bernalillo County, New Mexico",Census Tract 37.40,Bernalillo County,New Mexico,19.98056698
+35001003739,2020,"Census Tract 37.39, Bernalillo County, New Mexico",Census Tract 37.39,Bernalillo County,New Mexico,18.73178165
+35001000908,2020,"Census Tract 9.08, Bernalillo County, New Mexico",Census Tract 9.08,Bernalillo County,New Mexico,18.73178165
+35001000715,2020,"Census Tract 7.15, Bernalillo County, New Mexico",Census Tract 7.15,Bernalillo County,New Mexico,19.73141735
+35001000716,2020,"Census Tract 7.16, Bernalillo County, New Mexico",Census Tract 7.16,Bernalillo County,New Mexico,19.0737035
+35001000718,2020,"Census Tract 7.18, Bernalillo County, New Mexico",Census Tract 7.18,Bernalillo County,New Mexico,21.04684505
+35001004757,2020,"Census Tract 47.57, Bernalillo County, New Mexico",Census Tract 47.57,Bernalillo County,New Mexico,18.72103018
+35001003744,2020,"Census Tract 37.44, Bernalillo County, New Mexico",Census Tract 37.44,Bernalillo County,New Mexico,13.93956918
+35001004754,2020,"Census Tract 47.54, Bernalillo County, New Mexico",Census Tract 47.54,Bernalillo County,New Mexico,19.16676856
+35001004900,2020,"Census Tract 49, Bernalillo County, New Mexico",Census Tract 49,Bernalillo County,New Mexico,22.47813763
+35001001702,2020,"Census Tract 17.02, Bernalillo County, New Mexico",Census Tract 17.02,Bernalillo County,New Mexico,22.47813763
+35001003745,2020,"Census Tract 37.45, Bernalillo County, New Mexico",Census Tract 37.45,Bernalillo County,New Mexico,21.43748319
+35001000719,2020,"Census Tract 7.19, Bernalillo County, New Mexico",Census Tract 7.19,Bernalillo County,New Mexico,15.9983522
+35001001701,2020,"Census Tract 17.01, Bernalillo County, New Mexico",Census Tract 17.01,Bernalillo County,New Mexico,21.85374496
+35001000503,2020,"Census Tract 5.03, Bernalillo County, New Mexico",Census Tract 5.03,Bernalillo County,New Mexico,23.31066118
+35001000504,2020,"Census Tract 5.04, Bernalillo County, New Mexico",Census Tract 5.04,Bernalillo County,New Mexico,23.72692295
+35001000720,2020,"Census Tract 7.20, Bernalillo County, New Mexico",Census Tract 7.20,Bernalillo County,New Mexico,12.63086203
+35001003741,2020,"Census Tract 37.41, Bernalillo County, New Mexico",Census Tract 37.41,Bernalillo County,New Mexico,5.984992884
+35001004759,2020,"Census Tract 47.59, Bernalillo County, New Mexico",Census Tract 47.59,Bernalillo County,New Mexico,19.55466982
+35006974701,2020,"Census Tract 9747.01, Cibola County, New Mexico",Census Tract 9747.01,Cibola County,New Mexico,4.021674402
+35031943602,2020,"Census Tract 9436.02, McKinley County, New Mexico",Census Tract 9436.02,McKinley County,New Mexico,3.841849614
+35031945201,2020,"Census Tract 9452.01, McKinley County, New Mexico",Census Tract 9452.01,McKinley County,New Mexico,15.42184281
+35031945202,2020,"Census Tract 9452.02, McKinley County, New Mexico",Census Tract 9452.02,McKinley County,New Mexico,13.15653521
+35031940302,2020,"Census Tract 9403.02, McKinley County, New Mexico",Census Tract 9403.02,McKinley County,New Mexico,14.9378628
+35031940301,2020,"Census Tract 9403.01, McKinley County, New Mexico",Census Tract 9403.01,McKinley County,New Mexico,17.39389793
+35015001002,2020,"Census Tract 10.02, Eddy County, New Mexico",Census Tract 10.02,Eddy County,New Mexico,16.26802906
+35033955202,2020,"Census Tract 9552.02, Mora County, New Mexico",Census Tract 9552.02,Mora County,New Mexico,5.746297886
+35033955201,2020,"Census Tract 9552.01, Mora County, New Mexico",Census Tract 9552.01,Mora County,New Mexico,3.080785805
+35047957501,2020,"Census Tract 9575.01, San Miguel County, New Mexico",Census Tract 9575.01,San Miguel County,New Mexico,4.33038191
+35047957602,2020,"Census Tract 9576.02, San Miguel County, New Mexico",Census Tract 9576.02,San Miguel County,New Mexico,3.226695913
+35047957502,2020,"Census Tract 9575.02, San Miguel County, New Mexico",Census Tract 9575.02,San Miguel County,New Mexico,6.306353036
+35047957603,2020,"Census Tract 9576.03, San Miguel County, New Mexico",Census Tract 9576.03,San Miguel County,New Mexico,9.367013417
+35047957601,2020,"Census Tract 9576.01, San Miguel County, New Mexico",Census Tract 9576.01,San Miguel County,New Mexico,4.913611528
+35035000904,2020,"Census Tract 9.04, Otero County, New Mexico",Census Tract 9.04,Otero County,New Mexico,2.321957746
+35035000701,2020,"Census Tract 7.01, Otero County, New Mexico",Census Tract 7.01,Otero County,New Mexico,3.342548046
+35035000702,2020,"Census Tract 7.02, Otero County, New Mexico",Census Tract 7.02,Otero County,New Mexico,6.627238858
+35035000502,2020,"Census Tract 5.02, Otero County, New Mexico",Census Tract 5.02,Otero County,New Mexico,9.395111686
+35035000501,2020,"Census Tract 5.01, Otero County, New Mexico",Census Tract 5.01,Otero County,New Mexico,16.0433305
+35035000403,2020,"Census Tract 4.03, Otero County, New Mexico",Census Tract 4.03,Otero County,New Mexico,13.4434204
+35015001001,2020,"Census Tract 10.01, Eddy County, New Mexico",Census Tract 10.01,Eddy County,New Mexico,16.2084791
+35035000903,2020,"Census Tract 9.03, Otero County, New Mexico",Census Tract 9.03,Otero County,New Mexico,8.863811191
+35035000404,2020,"Census Tract 4.04, Otero County, New Mexico",Census Tract 4.04,Otero County,New Mexico,13.15149124
+35055952702,2020,"Census Tract 9527.02, Taos County, New Mexico",Census Tract 9527.02,Taos County,New Mexico,5.046683385
+35055952102,2020,"Census Tract 9521.02, Taos County, New Mexico",Census Tract 9521.02,Taos County,New Mexico,3.993472885
+35055952101,2020,"Census Tract 9521.01, Taos County, New Mexico",Census Tract 9521.01,Taos County,New Mexico,7.137046282
+35055940101,2020,"Census Tract 9401.01, Taos County, New Mexico",Census Tract 9401.01,Taos County,New Mexico,3.121524626
+35017964701,2020,"Census Tract 9647.01, Grant County, New Mexico",Census Tract 9647.01,Grant County,New Mexico,9.570157926
+35017964402,2020,"Census Tract 9644.02, Grant County, New Mexico",Census Tract 9644.02,Grant County,New Mexico,19.74305552
+35017964702,2020,"Census Tract 9647.02, Grant County, New Mexico",Census Tract 9647.02,Grant County,New Mexico,7.96186386
+35057963601,2020,"Census Tract 9636.01, Torrance County, New Mexico",Census Tract 9636.01,Torrance County,New Mexico,5.92997288
+35057980000,2020,"Census Tract 9800, Torrance County, New Mexico",Census Tract 9800,Torrance County,New Mexico,5.923706355
+35039000402,2020,"Census Tract 4.02, Rio Arriba County, New Mexico",Census Tract 4.02,Rio Arriba County,New Mexico,4.202110284
+35039000301,2020,"Census Tract 3.01, Rio Arriba County, New Mexico",Census Tract 3.01,Rio Arriba County,New Mexico,8.098220283
+35039000401,2020,"Census Tract 4.01, Rio Arriba County, New Mexico",Census Tract 4.01,Rio Arriba County,New Mexico,4.400660011
+35039000302,2020,"Census Tract 3.02, Rio Arriba County, New Mexico",Census Tract 3.02,Rio Arriba County,New Mexico,9.810838199
+35017964401,2020,"Census Tract 9644.01, Grant County, New Mexico",Census Tract 9644.01,Grant County,New Mexico,19.35481731
+35035000604,2020,"Census Tract 6.04, Otero County, New Mexico",Census Tract 6.04,Otero County,New Mexico,19.42069479
+35055952601,2020,"Census Tract 9526.01, Taos County, New Mexico",Census Tract 9526.01,Taos County,New Mexico,14.91714468
+35055940102,2020,"Census Tract 9401.02, Taos County, New Mexico",Census Tract 9401.02,Taos County,New Mexico,9.97786044
+35055952701,2020,"Census Tract 9527.01, Taos County, New Mexico",Census Tract 9527.01,Taos County,New Mexico,3.764513706
+35055952602,2020,"Census Tract 9526.02, Taos County, New Mexico",Census Tract 9526.02,Taos County,New Mexico,12.43891774
+35061970306,2020,"Census Tract 9703.06, Valencia County, New Mexico",Census Tract 9703.06,Valencia County,New Mexico,7.301167542
+35061971301,2020,"Census Tract 9713.01, Valencia County, New Mexico",Census Tract 9713.01,Valencia County,New Mexico,4.22104425
+35061970305,2020,"Census Tract 9703.05, Valencia County, New Mexico",Census Tract 9703.05,Valencia County,New Mexico,10.89258589
+35061970304,2020,"Census Tract 9703.04, Valencia County, New Mexico",Census Tract 9703.04,Valencia County,New Mexico,10.19201001
+35049000102,2020,"Census Tract 1.02, Santa Fe County, New Mexico",Census Tract 1.02,Santa Fe County,New Mexico,17.11854526
+35061970307,2020,"Census Tract 9703.07, Valencia County, New Mexico",Census Tract 9703.07,Valencia County,New Mexico,2.055320521
+35061970103,2020,"Census Tract 9701.03, Valencia County, New Mexico",Census Tract 9701.03,Valencia County,New Mexico,11.20211954
+35049010205,2020,"Census Tract 102.05, Santa Fe County, New Mexico",Census Tract 102.05,Santa Fe County,New Mexico,6.784848602
+35049000201,2020,"Census Tract 2.01, Santa Fe County, New Mexico",Census Tract 2.01,Santa Fe County,New Mexico,18.71387332
+35049010701,2020,"Census Tract 107.01, Santa Fe County, New Mexico",Census Tract 107.01,Santa Fe County,New Mexico,13.70856795
+35049001206,2020,"Census Tract 12.06, Santa Fe County, New Mexico",Census Tract 12.06,Santa Fe County,New Mexico,20.59761948
+35049010702,2020,"Census Tract 107.02, Santa Fe County, New Mexico",Census Tract 107.02,Santa Fe County,New Mexico,14.01434126
+35049001207,2020,"Census Tract 12.07, Santa Fe County, New Mexico",Census Tract 12.07,Santa Fe County,New Mexico,25.9528125
+35049001306,2020,"Census Tract 13.06, Santa Fe County, New Mexico",Census Tract 13.06,Santa Fe County,New Mexico,19.61962938
+35049980200,2020,"Census Tract 9802, Santa Fe County, New Mexico",Census Tract 9802,Santa Fe County,New Mexico,2.913854725
+35049000202,2020,"Census Tract 2.02, Santa Fe County, New Mexico",Census Tract 2.02,Santa Fe County,New Mexico,21.96708526
+35049010318,2020,"Census Tract 103.18, Santa Fe County, New Mexico",Census Tract 103.18,Santa Fe County,New Mexico,23.88841015
+35049000103,2020,"Census Tract 1.03, Santa Fe County, New Mexico",Census Tract 1.03,Santa Fe County,New Mexico,18.78760742
+35049001305,2020,"Census Tract 13.05, Santa Fe County, New Mexico",Census Tract 13.05,Santa Fe County,New Mexico,19.78103966
+35049010317,2020,"Census Tract 103.17, Santa Fe County, New Mexico",Census Tract 103.17,Santa Fe County,New Mexico,22.75723814
+35029000402,2020,"Census Tract 4.02, Luna County, New Mexico",Census Tract 4.02,Luna County,New Mexico,5.282367685
+35029000401,2020,"Census Tract 4.01, Luna County, New Mexico",Census Tract 4.01,Luna County,New Mexico,7.64660151
+35061970104,2020,"Census Tract 9701.04, Valencia County, New Mexico",Census Tract 9701.04,Valencia County,New Mexico,9.795881771
+35061980100,2020,"Census Tract 9801, Valencia County, New Mexico",Census Tract 9801,Valencia County,New Mexico,5.078443113
+35061970701,2020,"Census Tract 9707.01, Valencia County, New Mexico",Census Tract 9707.01,Valencia County,New Mexico,11.33214712
+35045000615,2020,"Census Tract 6.15, San Juan County, New Mexico",Census Tract 6.15,San Juan County,New Mexico,5.977628758
+35045000207,2020,"Census Tract 2.07, San Juan County, New Mexico",Census Tract 2.07,San Juan County,New Mexico,9.289491264
+35045000506,2020,"Census Tract 5.06, San Juan County, New Mexico",Census Tract 5.06,San Juan County,New Mexico,6.584269427
+35005000301,2020,"Census Tract 3.01, Chaves County, New Mexico",Census Tract 3.01,Chaves County,New Mexico,14.44340906
+35005000302,2020,"Census Tract 3.02, Chaves County, New Mexico",Census Tract 3.02,Chaves County,New Mexico,14.38812117
+35045000507,2020,"Census Tract 5.07, San Juan County, New Mexico",Census Tract 5.07,San Juan County,New Mexico,5.916292165
+35045000614,2020,"Census Tract 6.14, San Juan County, New Mexico",Census Tract 6.14,San Juan County,New Mexico,5.543040369
+35045000206,2020,"Census Tract 2.06, San Juan County, New Mexico",Census Tract 2.06,San Juan County,New Mexico,7.225972435
+35043011102,2020,"Census Tract 111.02, Sandoval County, New Mexico",Census Tract 111.02,Sandoval County,New Mexico,5.78676791
+35043941000,2020,"Census Tract 9410, Sandoval County, New Mexico",Census Tract 9410,Sandoval County,New Mexico,4.122482356
+35043010730,2020,"Census Tract 107.30, Sandoval County, New Mexico",Census Tract 107.30,Sandoval County,New Mexico,15.37258051
+35043011101,2020,"Census Tract 111.01, Sandoval County, New Mexico",Census Tract 111.01,Sandoval County,New Mexico,11.55817607
+35043010728,2020,"Census Tract 107.28, Sandoval County, New Mexico",Census Tract 107.28,Sandoval County,New Mexico,14.73608427
+35043010729,2020,"Census Tract 107.29, Sandoval County, New Mexico",Census Tract 107.29,Sandoval County,New Mexico,16.36484951
+35043010734,2020,"Census Tract 107.34, Sandoval County, New Mexico",Census Tract 107.34,Sandoval County,New Mexico,2.344428079
+35043010727,2020,"Census Tract 107.27, Sandoval County, New Mexico",Census Tract 107.27,Sandoval County,New Mexico,11.23754257
+35043010726,2020,"Census Tract 107.26, Sandoval County, New Mexico",Census Tract 107.26,Sandoval County,New Mexico,16.0661955
+35043010724,2020,"Census Tract 107.24, Sandoval County, New Mexico",Census Tract 107.24,Sandoval County,New Mexico,15.12740784
+35043010731,2020,"Census Tract 107.31, Sandoval County, New Mexico",Census Tract 107.31,Sandoval County,New Mexico,18.94389937
+35043980000,2020,"Census Tract 9800, Sandoval County, New Mexico",Census Tract 9800,Sandoval County,New Mexico,18.05242203
+35001004758,2020,"Census Tract 47.58, Bernalillo County, New Mexico",Census Tract 47.58,Bernalillo County,New Mexico,20.0582465
+35001000907,2020,"Census Tract 9.07, Bernalillo County, New Mexico",Census Tract 9.07,Bernalillo County,New Mexico,18.73178165
+35031945601,2020,"Census Tract 9456.01, McKinley County, New Mexico",Census Tract 9456.01,McKinley County,New Mexico,16.6450628
+35043010725,2020,"Census Tract 107.25, Sandoval County, New Mexico",Census Tract 107.25,Sandoval County,New Mexico,15.10058421
+35043010733,2020,"Census Tract 107.33, Sandoval County, New Mexico",Census Tract 107.33,Sandoval County,New Mexico,10.44465651
+35043010732,2020,"Census Tract 107.32, Sandoval County, New Mexico",Census Tract 107.32,Sandoval County,New Mexico,16.54158322
+35001000717,2020,"Census Tract 7.17, Bernalillo County, New Mexico",Census Tract 7.17,Bernalillo County,New Mexico,21.04684505
+35001980000,2020,"Census Tract 9800, Bernalillo County, New Mexico",Census Tract 9800,Bernalillo County,New Mexico,5.583867719
+35001980300,2020,"Census Tract 9803, Bernalillo County, New Mexico",Census Tract 9803,Bernalillo County,New Mexico,21.85374496
+35001004762,2020,"Census Tract 47.62, Bernalillo County, New Mexico",Census Tract 47.62,Bernalillo County,New Mexico,22.02710002
+35031946003,2020,"Census Tract 9460.03, McKinley County, New Mexico",Census Tract 9460.03,McKinley County,New Mexico,5.243034915
+35031945702,2020,"Census Tract 9457.02, McKinley County, New Mexico",Census Tract 9457.02,McKinley County,New Mexico,2.060010916
+35031980000,2020,"Census Tract 9800, McKinley County, New Mexico",Census Tract 9800,McKinley County,New Mexico,7.593426229
+35031943601,2020,"Census Tract 9436.01, McKinley County, New Mexico",Census Tract 9436.01,McKinley County,New Mexico,6.494736547
+35031946001,2020,"Census Tract 9460.01, McKinley County, New Mexico",Census Tract 9460.01,McKinley County,New Mexico,9.713693122
+35031943801,2020,"Census Tract 9438.01, McKinley County, New Mexico",Census Tract 9438.01,McKinley County,New Mexico,7.997490317
+35031943905,2020,"Census Tract 9439.05, McKinley County, New Mexico",Census Tract 9439.05,McKinley County,New Mexico,5.187982574
+35031946002,2020,"Census Tract 9460.02, McKinley County, New Mexico",Census Tract 9460.02,McKinley County,New Mexico,7.33483896
+35031945701,2020,"Census Tract 9457.01, McKinley County, New Mexico",Census Tract 9457.01,McKinley County,New Mexico,5.302636617
+35031943904,2020,"Census Tract 9439.04, McKinley County, New Mexico",Census Tract 9439.04,McKinley County,New Mexico,8.248963231
+35031943701,2020,"Census Tract 9437.01, McKinley County, New Mexico",Census Tract 9437.01,McKinley County,New Mexico,5.697345982
+35031943702,2020,"Census Tract 9437.02, McKinley County, New Mexico",Census Tract 9437.02,McKinley County,New Mexico,5.214763774
+35031943906,2020,"Census Tract 9439.06, McKinley County, New Mexico",Census Tract 9439.06,McKinley County,New Mexico,8.180824827
+35031945602,2020,"Census Tract 9456.02, McKinley County, New Mexico",Census Tract 9456.02,McKinley County,New Mexico,17.48432667
+35031945503,2020,"Census Tract 9455.03, McKinley County, New Mexico",Census Tract 9455.03,McKinley County,New Mexico,18.3852096
+35031945501,2020,"Census Tract 9455.01, McKinley County, New Mexico",Census Tract 9455.01,McKinley County,New Mexico,13.43703595
+35031945502,2020,"Census Tract 9455.02, McKinley County, New Mexico",Census Tract 9455.02,McKinley County,New Mexico,17.27574516
+35031943903,2020,"Census Tract 9439.03, McKinley County, New Mexico",Census Tract 9439.03,McKinley County,New Mexico,5.730229185
+35031943803,2020,"Census Tract 9438.03, McKinley County, New Mexico",Census Tract 9438.03,McKinley County,New Mexico,5.493163629
+35031943907,2020,"Census Tract 9439.07, McKinley County, New Mexico",Census Tract 9439.07,McKinley County,New Mexico,8.541435154
+35031943802,2020,"Census Tract 9438.02, McKinley County, New Mexico",Census Tract 9438.02,McKinley County,New Mexico,3.941331767
+35027960401,2020,"Census Tract 9604.01, Lincoln County, New Mexico",Census Tract 9604.01,Lincoln County,New Mexico,4.165805214
+35027960403,2020,"Census Tract 9604.03, Lincoln County, New Mexico",Census Tract 9604.03,Lincoln County,New Mexico,7.96372573
+35027960402,2020,"Census Tract 9604.02, Lincoln County, New Mexico",Census Tract 9604.02,Lincoln County,New Mexico,4.795919871
+35006974702,2020,"Census Tract 9747.02, Cibola County, New Mexico",Census Tract 9747.02,Cibola County,New Mexico,4.09899725
+35006974401,2020,"Census Tract 9744.01, Cibola County, New Mexico",Census Tract 9744.01,Cibola County,New Mexico,14.14648591
+35006974402,2020,"Census Tract 9744.02, Cibola County, New Mexico",Census Tract 9744.02,Cibola County,New Mexico,13.59294183
+35061941400,2020,"Census Tract 9414, Valencia County, New Mexico",Census Tract 9414,Valencia County,New Mexico,8.353574108
+35027960601,2020,"Census Tract 9606.01, Lincoln County, New Mexico",Census Tract 9606.01,Lincoln County,New Mexico,5.951474757
+35027960602,2020,"Census Tract 9606.02, Lincoln County, New Mexico",Census Tract 9606.02,Lincoln County,New Mexico,10.22829337
+35027960603,2020,"Census Tract 9606.03, Lincoln County, New Mexico",Census Tract 9606.03,Lincoln County,New Mexico,9.427721964
+35009000308,2020,"Census Tract 3.08, Curry County, New Mexico",Census Tract 3.08,Curry County,New Mexico,15.80232991
+35009000307,2020,"Census Tract 3.07, Curry County, New Mexico",Census Tract 3.07,Curry County,New Mexico,16.07332533
+35009000306,2020,"Census Tract 3.06, Curry County, New Mexico",Census Tract 3.06,Curry County,New Mexico,16.89256627
+35061980300,2020,"Census Tract 9803, Valencia County, New Mexico",Census Tract 9803,Valencia County,New Mexico,14.75294907
+35061980200,2020,"Census Tract 9802, Valencia County, New Mexico",Census Tract 9802,Valencia County,New Mexico,11.40901674
+35061980400,2020,"Census Tract 9804, Valencia County, New Mexico",Census Tract 9804,Valencia County,New Mexico,12.74797586
+35001003746,2020,"Census Tract 37.46, Bernalillo County, New Mexico",Census Tract 37.46,Bernalillo County,New Mexico,19.77495752
+35009000305,2020,"Census Tract 3.05, Curry County, New Mexico",Census Tract 3.05,Curry County,New Mexico,17.16146164
+35001980500,2020,"Census Tract 9805, Bernalillo County, New Mexico",Census Tract 9805,Bernalillo County,New Mexico,
