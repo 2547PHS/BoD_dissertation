@@ -1,0 +1,3 @@
+"","TOTAL_ADULT_POP","AttributableCases_baseline","LowerAttributableCases_baseline","UpperAttributableCases_baseline","AttributableCases_counterfactual","LowerAttributableCases_counterfactual","UpperAttributableCases_counterfactual","AttributableCases_difference","LowerAttributableCases_difference","UpperAttributableCases_difference"
+"1","Urban",72660,30107,114942,46037,18659,74063,26623,11448,40879
+"2","Rural",7624,3076,12309,7383,2975,11932,241,101,377

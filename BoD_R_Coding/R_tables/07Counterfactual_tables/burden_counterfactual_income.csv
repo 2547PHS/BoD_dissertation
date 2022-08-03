@@ -1,0 +1,6 @@
+"","TOTAL_ADULT_POP","AttributableCases_baseline","LowerAttributableCases_baseline","UpperAttributableCases_baseline","AttributableCases_counterfactual","LowerAttributableCases_counterfactual","UpperAttributableCases_counterfactual","AttributableCases_difference","LowerAttributableCases_difference","UpperAttributableCases_difference"
+"1","<$27,000",4160,1737,6544,2325,942,3740,1835,795,2804
+"2","$27,000 to <$52,000",31634,13091,50094,20496,8298,33002,11138,4793,17092
+"3","$52,000 to <$85,000",47951,19785,76103,32756,13262,52741,15195,6523,23362
+"4","$85,000 to <$141,000",28168,11621,44708,19358,7841,31155,8810,3780,13553
+"5",">=$141,000",5943,2454,9429,4079,1653,6563,1864,801,2866
