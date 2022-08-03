@@ -1,0 +1,3 @@
+UrbanRural,IncidentCases,LowerIncidentCases,UpperIncidentCases,AttributableCases,LowerAttributableCases,UpperAttributableCases,ImpactFraction,LowerImpactFraction,UpperImpactFraction
+Urban,497774,420139,575049,72660,30107,114942,14.6,7.2,20
+Rural,105199,88791,121530,7624,3076,12309,7.2,3.5,10.1
