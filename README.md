@@ -1,10 +1,12 @@
 'Traffic-Related Air Pollution NO2 and Adult-Onset Asthma in the United States of America: A Burden of Disease Assessment'
 
-Aim: to estimate the number of incident adult asthma cases attributable to TRAP NO2 exposure across the U.S. in 2020
+Aim: To estimate the number of incident adult asthma cases attributable to NO2 exposure across the U.S. in 2020.
 
 Objectives
-1.	To estimate and analyse the number of adult-onset asthma cases attributable to TRAP NO2 across the U.S. in 2020 at the baseline and counterfactual scenario NO2 concentrations.
-2.	To stratify and analyse the number of adult-onset asthma cases attributable to TRAP NO2 across the U.S. in 2020 based on three sociodemographic traits – race and ethnicity, median household income, and living location – at the baseline and counterfactual scenario NO2 concentrations.
+1.	To estimate and analyse the NO2 concentrations across the U.S. in 2020.
+2.	To estimate and analyse the number of adult-onset asthma cases attributable to NO2 across the U.S. in 2020 at the baseline and counterfactual scenario’s NO2 concentrations.
+3.	To stratify and analyse the number of adult-onset asthma cases attributable to NO2 across the U.S. in 2020 based on four sociodemographic traits 
+     – race, ethnicity, median household income, and living location – at the baseline and counterfactual scenario’s NO2 concentrations.
 
 
 This repository contains the necessary files for conducting GIS spatial analysis and burden of disease calculations for this dissertation. Each folder is explained below:
