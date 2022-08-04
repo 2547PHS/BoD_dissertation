@@ -15,4 +15,4 @@ This repository contains the necessary files for conducting GIS spatial analysis
 3.  'NO2 files' includes two articles - (1) Anenberg et al.'s published article on how the NO2 global data were collected and analysed and (2) the WHO Air Quality Guildeline limits. Unfortunately, the NO2 global raster data files are too big to upload to Github.
 4.  'Unzipped demographic files' contains the sociodemographic census files along with their metadata.
 5.  'Zipped ArcGIS files' are in fact the unzipped shapefiles for each U.S. state and the entire U.S. Certain files for very large states (e.g., California and Texas) as too big to upload to Github.
-     N.B. This folder was mistakenly named early in the data analysis process. Changing it now would disrupt the ArcGIS Pro analysis because of how the data are linked.
+     (N.B. This folder was mistakenly named early in the data analysis process. Changing it now would disrupt the ArcGIS Pro analysis because of how the data are linked.)
